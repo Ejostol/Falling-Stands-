@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="Falling Stands"
        author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
@@ -15,8 +15,7 @@ Japanese cedar (_Cryptomeria japonica_), known as sūgi in Japanese, is the nati
 While Cryptomeria’s cultural significance is well documented through history, its current copious planting is a conscious choice that reflects the idea of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century shows how a single species can culturally, economically, and spiritually shape a national landscape.   Today, as aging monocultural stands of sūgi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
 
 <param ve-image 
-       label="Girl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl EarringGirl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="A single Cryptomeria tree, its canopy over 100 feet, on Yakushima Island" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/81/Cryptomeria_japonica_specimen.jpg">
 
