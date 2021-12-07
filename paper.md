@@ -18,7 +18,7 @@ While Cryptomeria’s cultural significance is well documented through history, 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wreathed_hornbill1.jpg/243px-Wreathed_hornbill1.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/81/Cryptomeria_japonica_specimen.jpg">
 
 
 ### All in the Family 
