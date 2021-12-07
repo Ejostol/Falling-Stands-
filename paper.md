@@ -1,5 +1,7 @@
 <param ve-image fit="cover" manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
+<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
+
 # Falling Stands: Climate change, cultivation and culture of Cryptomeria japonica in the 21st Century
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
@@ -8,10 +10,10 @@ Japanese cedar (_Cryptomeria japonica_), known as sūgi in Japanese, is the nati
 While Cryptomeria’s cultural significance is well documented through history, its current copious planting is a conscious choice that reflects the idea of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century shows how a single species can culturally, economically, and spiritually shape a national landscape.   Today, as aging monocultural stands of sūgi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
 
 <param ve-image 
-       label="Japanese cedar" 
+       label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://commons.wikimedia.org/wiki/File:Cryptomeria_japonica_specimen.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 
 ### All in the Family 
