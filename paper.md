@@ -109,7 +109,7 @@ The Cryptomeria afforestation project shows the dangers of treating rural forest
 [^11]: Ishii, H.T., Manabe, T., Ito, K. et al. Integrating ecological and cultural values toward conservation and utilization of shrine/temple forests as urban green space in Japanese cities. Landscape Ecol Eng 6, 307–315 (2010). 
 [^12]: Sargent, Charles Sprague. Forest Flora of Japan: Notes on the Forest Flora of Japan. New York: Houghton, Mifflin and Company, 1894.
 [^13]: Sargent, Charles Sprague. Forest Flora of Japan: Notes on the Forest Flora of Japan. New York: Houghton, Mifflin and Company, 1894; Iwai, Yoshiya. Forestry and the Forest Industry in Japan. Vancouver: University of British Columbia Press, 2007.
-[^14]: “History of Sake - Japanese Wiki Corpus.” History of Sake (Japanese liquor) - Japanese Wiki Corpus. Accessed September 1, 2021. https://www.japanese-wiki-corpus.org/culture/History%20of%20Sake%20(Japanese%20liquor).html. 
+[^14]: [History of Sake](https://www.japanese-wiki-corpus.org/culture/History%20of%20Sake%20(Japanese%20liquor).htm)
 [^15]: Miyazaki, Hayao. The Princess Mononoke: The Art and Making of Japan’s Most Popular Film of All Time. Translated by Mark Schilling. New York: Hyperion, 1999. 
 [^16]: Yoshida, S. and Imanaga M. “The stand structure and growth of sugi (Cryptomeria japonica D. Don) in natural forests on Yakushima. Journal of the Japanese Forestry Society 72 (1990): 131-138; Wilson, Edward O. The Conifers and Taxads of Japan. Cambridge: Cambridge University press, 1916.
 [^17]: Tsugi, Sei-Ichiro. “Paleoenvironmental Reconstruction in the Dissected Valley in Prehistory: Holocene Paleoenvironment at the Ayakama Site in Kawaguchi, Central Kanto Plain, Japan.” The Quaternary Research (Daiyonki-Kenkyu) 27, no. 4 (1989): 331-356.
