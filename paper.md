@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Falling Stands"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       author="Kira Clingen and Edyth Jostol"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7b/Cryptomeria_japonica_SZ124b.png" 
        layout="vertical">
 
 
