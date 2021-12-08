@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Cryptomeria japonica"
-       author="Kira Clingen and Edyth Jostol"
+       author=#"Kira Clingen and Edyth Jostol"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7b/Cryptomeria_japonica_SZ124b.png"
        layout="vertical">
 
