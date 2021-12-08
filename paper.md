@@ -36,7 +36,7 @@ Cryptomeria japonica is depicted in the 1309 painted scrolls Kasuga Gongen Genki
 
 Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the Thirty-six Views of Mount Fuji, is dominated by an enormous Cryptomeria japonica trunk. The tree, which dwarfs the travelers, some of whom are attempting to measure it's size, visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape[^9].   
 
-<param ve-image region="316,0,689,523"
+<param ve-image
        label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria" 
        license="public domain" 
        url="https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
