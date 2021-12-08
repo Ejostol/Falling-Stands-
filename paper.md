@@ -5,7 +5,6 @@
        author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
-       <param ve-image rotate="90" manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 
 # Falling Stands: Climate change, cultivation and culture of Cryptomeria japonica in the 21st Century
@@ -14,8 +13,8 @@
 
 Japanese cedar (_Cryptomeria japonica_), known as sūgi in Japanese, is the national tree of Japan and the most widely planted tree species in the country. It was the backbone of a massive and successful afforestation project in Japan following World War II and the Korean War. Today, 40% of Japan is forested, and 60% of this forest is artificial[^1]. Yet, Cryptomeria is also known for the massive amounts of pollen that the female trees produce each springtime[^2]. In recent decades, the springtime in Japan has become synonymous with a drastic public health hazard, as one quarter of the population is commonly afflicted with Japanese cedar pollinosis[^3]. 
 While Cryptomeria’s cultural significance is well documented through history, its current copious planting is a conscious choice that reflects the idea of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century shows how a single species can culturally, economically, and spiritually shape a national landscape.   Today, as aging monocultural stands of sūgi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
-
-<param ve-image 
+ 
+<param ve-image rotate="90"
        label="A single Cryptomeria tree, its canopy over 100 feet, on Yakushima Island" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/81/Cryptomeria_japonica_specimen.jpg">
