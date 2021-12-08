@@ -28,6 +28,12 @@ The decision to plant sūgi trees had its roots in the millennia of Japan’s cu
 
 Cryptomeria japonica is depicted in the 1309 painted scrolls Kasuga Gongen Genki. One image shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the building of the Kasuga Shrine nor in the forest, dominating the foreground. Carefully maintained, this tree still stands in the Nara prefecture, having withstood the building’s reconstructions[^8].   
 
+<param ve-image
+       label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
+
+
 Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the Thirty-six Views of Mount Fuji, is dominated by an enormous Cryptomeria japonica trunk. The tree, which dwarfs the travelers, some of whom are attempting to measure it's size, visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape[^9].   
 
 Groves of Cryptomeria japonica were typically associated with temple complexes. At Ryōan-ji , a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as daisūgi, a coppicing technique that emerged during the Muromachi period (1336–1573) to create thinner posts for team room construction[^10].  Built in 1617, Nikko Tosho-gu Shrine, also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the Avenue of Cedars that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape[^11].    
@@ -36,7 +42,7 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
 
 ### A View from Yakushima Island 
 
-_Princess Mononoke_, the 1997 Japanese fantasy film directed by Hayao Miyazaki and set in the Muromachi period, tells the story of a battle over the survival of the Great Forest Spirit, an animist deity who lives among ancient sūgi trees. For inspiration for the animated landscapes in his film, Miyazaki traveled to Yakushima Island in the south-west of Japan[^15].  The island’s environmental history offers a lens for understanding the complexity of Japan’s forest history and policy. It is home to one of the last remaining primary Cryptomeria forest, which includes the country’s largest tree, Jōmon-Sūgi, estimated to be over 2,170 years old. The tree grows alongside deciduous overstory species, such as oak and chestnut, with an evergreen broadleaf understory including rhododendrons and epiphytes that grow on branches[^16].  
+[Princess Mononoke](https://en.wikipedia.org/wiki/Princess_Mononoke), the 1997 Japanese fantasy film directed by Hayao Miyazaki and set in the Muromachi period, tells the story of a battle over the survival of the Great Forest Spirit, an animist deity who lives among ancient sūgi trees. For inspiration for the animated landscapes in his film, Miyazaki traveled to Yakushima Island in the south-west of Japan[^15].  The island’s environmental history offers a lens for understanding the complexity of Japan’s forest history and policy. It is home to one of the last remaining primary Cryptomeria forest, which includes the country’s largest tree, Jōmon-Sūgi, estimated to be over 2,170 years old. The tree grows alongside deciduous overstory species, such as oak and chestnut, with an evergreen broadleaf understory including rhododendrons and epiphytes that grow on branches[^16].  
 
 This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago, most of Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. Cryptomeria only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in[^17].  
 
@@ -44,7 +50,7 @@ On Yakushima Island, sūgi were continuously cut down and replanted as plantatio
 
 The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II from 1941-1945 and the Korean War from 1950-1953. Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. 
 
-As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested[^19].  In 1993 Yakushima was added  to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
+As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested[^19].  In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
 
 ### Crypto Currency: from Specimen Species to Monoculture Mascot 
 
