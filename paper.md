@@ -28,7 +28,7 @@ The decision to plant sūgi trees had its roots in the millennia of Japan’s cu
 
 Cryptomeria japonica is depicted in the 1309 painted scrolls Kasuga Gongen Genki. One image shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the building of the Kasuga Shrine nor in the forest, dominating the foreground. Carefully maintained, this tree still stands in the Nara prefecture, having withstood the building’s reconstructions[^8].   
 
-<param ve-image fit="cover" 
+<param ve-image region="200,200,50,50"
        label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
