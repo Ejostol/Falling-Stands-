@@ -5,6 +5,7 @@
        author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
+       <param ve-image rotate="90" manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 
 # Falling Stands: Climate change, cultivation and culture of Cryptomeria japonica in the 21st Century
