@@ -93,6 +93,11 @@ Areas where Cryptomeria trees are growing will likely remain planted with conife
 
 Cryptomeria trees are still planted around Japan. Yet, the risk of pollinosis—a reaction to the pollen released every spring as Cryptomerias begin to breed—has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring and rely on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what became the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops close to Cryptomeria canopies collect pollen, and tires whizzing along the highway resuspend pollen after it falls to the ground.[^32]
 
+<param ve-image
+       label="A map showing the progression of the pollen season throughout Japan in 2017. Peak season is in the middle of March, but the season can last up to three months in some areas" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Map%20of%20Regions_wind%20with%20colors-01.png?raw=true">
+
 The Japanese government has worked to alter genetically the species, which would allow the rural forestry industry to continue in an era of increasing urbanization in Japan. It started a campaign to produce pollen without the allergens _Cry j1_ and _Cry j 2_, which create symptoms of pollinosis. Research agencies across the archipelago breed these hypo-allergenic trees to introduce them to plantations. Since 2007, 130 different pollen-free varieties have been produced. The cost of these trees makes them a challenge to plant as an alternative to the non-modified Cryptomeria trees. A program of subsidies from the Japanese government, however, attempts to lessen the burden on foresters.[^33]
 
 ### Taking a Stand 
