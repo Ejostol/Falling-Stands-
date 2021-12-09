@@ -63,7 +63,7 @@ This forest composition is most similar to Japan’s prehistoric forests. Until 
 
 On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time[^18].  
 
-<param ve-image
+<param ve-image fit="contain" 
        label="An old railway track on Yakushima Island used to bring Cryptomeria logs from the mountainous inland forest to the coast for processing and shipment" 
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0143.JPG?raw=true">
