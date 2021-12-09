@@ -56,6 +56,11 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
 
 This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago, most of Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. Cryptomeria only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in[^17].  
 
+<param ve-image
+       label="Some species in the dynamic plant communities found on Yakushima Island" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Species.png?raw=true">
+
 On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time[^18].  
 
 <param ve-image
