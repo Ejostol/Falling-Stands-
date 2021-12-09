@@ -58,6 +58,11 @@ This forest composition is most similar to Japan’s prehistoric forests. Until 
 
 On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time[^18].  
 
+<param ve-image
+       label="A photograph of the Avenue of Cedars in Nikko, part of the shrine’s forest" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0143.JPG?raw=true">
+
 The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II from 1941-1945 and the Korean War from 1950-1953. Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. 
 
 As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested[^19].  In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
