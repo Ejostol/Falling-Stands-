@@ -49,12 +49,17 @@ Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from th
 
 Groves of Cryptomeria japonica were typically associated with temple complexes. At Ryōan-ji , a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as daisūgi, a coppicing technique that emerged during the Muromachi period (1336–1573) to create thinner posts for tea room construction[^10].  Built in 1617, Nikko Tosho-gu Shrine, also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the Avenue of Cedars that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape[^11].    
 
+<param ve-image 
+       label="A temple on the Shikoku Pilgrimage trail, one of eighty-eight shrines that this path connects. Shikoku is the smallest of Japan's four major islands. Sūgi were planted as a boundary demarcating the devotional space around each temple" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
+       
+During his travels in Japan in the late nineteenth century, Charles Sprague Sargent—an American botanist and the first director of the Arnold Arboretum—documented Cryptomeria japonica as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the shōgun, in 1616. As he wrote, “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^12]   
+
 <param ve-image
        label="A photograph of the Avenue of Cedars in Nikko, part of the shrine’s forest" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/16/Een_laan_met_hoge_bomen%2C_Nikko_%2C_Japan%2C_RP-F-2000-9-34.jpg">
-       
-During his travels in Japan in the late nineteenth century, Charles Sprague Sargent—an American botanist and the first director of the Arnold Arboretum—documented Cryptomeria japonica as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the shōgun, in 1616. As he wrote, “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^12]   
 
 ### A View from Yakushima Island 
 
