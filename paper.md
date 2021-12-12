@@ -9,12 +9,18 @@
 # Falling Stands: Climate change, cultivation and culture of Cryptomeria japonica in the 21st Century
 
 Japanese cedar (_Cryptomeria japonica_), sūgi in Japanese, is the national tree of Japan and the most widely planted tree species in the country. It was the backbone of a massive and successful afforestation project following World War II and the Korean War. Today, 40% of Japan is forested, and 60% of this forest is artificial[^1]. The once present affinity that led to the widespread planting of the species has tarnished. Cryptomeria is now known for the massive amounts of pollen that the female trees produce each springtime[^2]. In recent decades, spring in Japan has become synonymous with a drastic public health hazard, as one quarter of the population is commonly afflicted with Japanese cedar pollinosis[^3]. 
-While Cryptomeria’s cultural significance is well documented through history, its current copious planting is a conscious choice that reflects the idea of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century shows how a single species can culturally, economically, and spiritually shape a national landscape. Today, as aging monocultural stands of sūgi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
- 
+
 <param ve-image rotate="90"
        label="A single Cryptomeria tree, its canopy over 100 feet, on Yakushima Island" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/81/Cryptomeria_japonica_specimen.jpg">
+       
+While Cryptomeria’s cultural significance is well documented through history, its current copious planting is a conscious choice that reflects the idea of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century shows how a single species can culturally, economically, and spiritually shape a national landscape. Today, as aging monocultural stands of sūgi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
+ 
+<param ve-image 
+       label="A plantation of Cryptomeria near the Nakagawa Revitalization Project on Honshu Island" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0196.JPG?raw=true">
 
 
 ### All in the Family 
