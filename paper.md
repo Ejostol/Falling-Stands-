@@ -65,14 +65,14 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
 
 [Princess Mononoke](https://en.wikipedia.org/wiki/Princess_Mononoke), the 1997 Japanese fantasy film directed by Hayao Miyazaki and set in the Muromachi period, tells the story of a battle over the survival of the Great Forest Spirit, an animist deity who lives among ancient sūgi trees. For inspiration for the animated landscapes in his film, Miyazaki traveled to Yakushima Island in the south-west of Japan[^15].  The island’s environmental history offers a lens for understanding the complexity of Japan’s forest history and policy. It is home to one of the last remaining primary Cryptomeria forest, which includes the country’s largest conifer tree, Jōmon-Sūgi, estimated to be over 2,170 years old. The tree grows alongside deciduous overstory species, such as oak and chestnut, with an evergreen broadleaf understory including rhododendrons and epiphytes that grow on branches[^16].  
 
-<param ve-image fit="contain" 
+<param ve-image  rotate="90"
        label="An old railway track on Yakushima Island used to bring Cryptomeria logs from the mountainous inland forest to the coast for processing and shipment" 
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0713.JPG?raw=true">
 
 This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago most of Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. Cryptomeria only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in[^17].  
 
-<param ve-image rotate="90"
+<param ve-image
        label="Jōmon-Sūgi is accessible at the end of a ten-hour hike through Yakushima’s primary forest" 
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/Species.png?raw=true">
@@ -86,7 +86,7 @@ On Yakushima Island, sūgi were continuously cut down and replanted as plantatio
 
 The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II from 1941-1945 and the Korean War from 1950-1953. Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested[^19].  In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
 
-<param ve-image fit="contain" 
+<param ve-image 
        label="Cryptomerias in Yakushima Island’s primary forest are multi-species assemblages with a deciduous overstory, epiphytes, and an evergreen broadleaf understory" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/Anno%202_2.PNG?raw=true">
 
