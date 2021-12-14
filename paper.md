@@ -158,7 +158,6 @@ Transitioning to more diverse forestry species and practices is a lengthy proces
 Areas where Cryptomeria trees are growing will likely remain planted with conifers for hundreds of years, while areas where they have been cut down will see new species emerge on the forest floor and create new types of plant communities. This type of mixed forest is likely to take over large areas of current Japanese cedar plantations as they are abandoned. Once again, the species composition of Japan will be transformed as the Japanese landscape is reshaped by forestry. This new type of forest will require new management practices and a different approaches, learning from connections within diverse ecosystems instead of merely dealing with plantations and spontaneously growing forest.
 
 <param ve-image
-       label="A landslide caused by a windstorm at a Cryptomeria plantation, destabilizing the hillside" 
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0201%20(1).JPG?raw=true">
 
