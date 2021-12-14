@@ -39,7 +39,6 @@ Cryptomeria japonica is depicted in the 1309 painted scrolls Kasuga Gongen Genki
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
 
-
 Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the Thirty-six Views of Mount Fuji, is dominated by an enormous Cryptomeria japonica trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape[^9].   
 
 <param ve-image
@@ -152,6 +151,11 @@ The Japanese government has worked to genetically alter the species, which would
 
 The Cryptomeria afforestation project shows the dangers of treating rural forest areas as an economic resource dependent on international networks and extracted without thinking through the consequences of this industry for people and the environment. The policies of the Forestry and Forest Basic Act of 1964 enabled the landscape that in the twenty-first century creates an annually public health crisis on a national scale. This problem reveals how interconnected urban and rural areas are, and how trees growing hundreds of miles from urban centers dramatically affect the lives of millions of city inhabitants. These issues are likely to continue until the forests are restored to a new kind of ecological balance, as other species return to Cryptomeria. The story of Cryptomeria suggests that falling stands can give rise to many models of regeneration and adaptation.
 
+<param ve-image
+       label="A photogrammetry composite image of 109 images of a Cryptomeria tree and seedling. This living Cryptomeria shows the complex associations the cedars growing on Yakushima have evolved. An oak seedling grows on the side of the tree, while moss colonizes the trunk and smaller Stewartia grow in close proximity to the base of the tree" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/TreeStump_FinalFinal.jpg?raw=true">
+       
 # References
 
 [^1]: Japan Forestry Agency. The Ministry of agriculture, forestry and fisheries of Japan Annual report on trends of forest and forestry. Tokyo: Annual Report Group Policy Planning Division, Forestry Agency Ministry of Agriculture, Forestry and Fisheries, 2011. 
