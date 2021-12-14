@@ -28,9 +28,19 @@ While Cryptomeria’s cultural significance is well documented through history, 
 A ubiquitous evergreen conifer planted on all four of Japan’s main islands, Cryptomeria japonica is native to China and Japan. Numerous archeological studies sought to find buried traces of Japanese cedar pollen in hopes of tracing the tree’s habitation patterns. These studies confirmed that the species had existed in small forested areas around 13,000 BCE. Cryptomeria increased its presence on the island significantly following a change in climate that took place from 5,000 BCE to Common Era, when the country’s environment generally became colder and wetter, a climate ideal for cedar trees[^4]. 
 Cryptomeria japonica is a dioecious tree and the only species in the genus Cryptomeria. It is part of the Cupressacae family found on all continents, which includes junipers, cypresses, and redwoods[^5].  Its distinctive pyramidical form with tiered branching appears in traditional Japanese paintings of temples and shrine complexes, often creating a visual backdrop to isolate the sacred space from the wilderness. Associated with religious sites, the tree is used as an ornamental species, despite often being planted in large groves or to demarcate boundaries. It has also been revered in its own right. There is a tradition of designating older, larger sūgi trees as sacred objects, ritually wrap them in shimenawa, cloth pieces that demarcate places of spiritual significance. In such locations, sūgi is prized, with each individual specimen receiving high levels of maintenance and stewardship. 
 
+<param ve-image 
+       label="Raised cryptomeria stump over a sūgi hiking trail on Yakushima Island" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_0548.JPG?raw=true">
+
 ### Sūgi in the Historical and Cultural Landscape      
 
 The decision to plant sūgi trees had its roots in the millennia of Japan’s cultural history. The _Nihon Shoki_, the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to Susanoo, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships[^6][^7].   
+
+<param ve-image 
+       label="Zen garden at Ryoan-ji, with two prominent Cryptomeria visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3793%20(1).JPG?raw=true">
 
 Cryptomeria japonica is depicted in the 1309 painted scrolls Kasuga Gongen Genki. One image shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the building of the Kasuga Shrine nor in the forest, dominating the foreground. Carefully maintained, this tree still stands in the Nara prefecture, having withstood the building’s reconstructions[^8].   
 
@@ -93,11 +103,27 @@ The pace of deforestation increased as the Japanese Imperial Army demanded addit
 
 Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers[^20]. These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Additionally, in 1964, the Forestry Basic Act was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of road across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast[^21].  
 
+<param ve-image 
+       label="Historical photograph of forester on Yakushima Island" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3081-01.JPG?raw=true">
+
 The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets[^22]. These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber[^23]. 
+
+<param ve-image 
+       label="Freshly processed timber set to be exported" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0018.JPG?raw=true">
 
 Following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily. 16 million new cedar trees have been planted each year since the 1970s[^24].  
 
+<param ve-image 
+       label="Processed next to rough Cryptomeria poles" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
+
 In the 1980s, the value of hardwood tree species such as Cryptomeria crashed, as the demand for wood products lessened. Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for Cryptomeria plantations. This new international competition crippled the Japanese market, built around the afforestation program. The promise of a thriving rural economy based on harvesting forest products and efficiently distributing them from urban centers died over the course of a single decade. It also left millions of acres of planted forests with little economic value. Furthermore, after an earthquake devastated large areas of Japan in 1995, the government created strict regulations around the types of timber suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree[^25].  
+
+<param ve-image 
+       label="Processed next to rough Cryptomeria poles" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
 ### Cryptomeria grows into the 21st Century  
 
@@ -110,6 +136,11 @@ Today, Japan is the most densely forested developed nation in the world as a res
 
 The monoculture planting has changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have more living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi.[^27] Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists have studied these thinning practices to determine the optimal ways to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches.[^28] 
 
+<param ve-image
+       label="Tended and coppiced Cryptomeria plot" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
+       
 Cryptomeria plantations also pose a significant risk for avalanches and soil slides. The trees have horizontal, shallow roots, and are therefore in danger of falling and stripping away anything else in their path. Such risks are particularly high during heavy rainfall or typhoons, which are common across the archipelago and are projected to increase in intensity and frequency due to climate change.[^29]
 
 <param ve-image
@@ -154,7 +185,7 @@ The Cryptomeria afforestation project shows the dangers of treating rural forest
 <param ve-image
        label="A photogrammetry composite image of 109 images of a Cryptomeria tree and seedling. This living Cryptomeria shows the complex associations the cedars growing on Yakushima have evolved. An oak seedling grows on the side of the tree, while moss colonizes the trunk and smaller Stewartia grow in close proximity to the base of the tree" 
        license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/TreeStump_FinalFinal.jpg?raw=true">
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/LivingTree_03.jpg?raw=true">
        
 # References
 
