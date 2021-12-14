@@ -109,13 +109,13 @@ Following the World War II period, the Japanese government instigated a series o
 
 The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets[^22]. These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber[^23]. 
 
-<param ve-image 
+<param ve-image fit="contain" 
        label="Freshly processed timber set to be exported" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0018.JPG?raw=true">
 
 Following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily. 16 million new cedar trees have been planted each year since the 1970s[^24].  
 
-<param ve-image 
+<param ve-image fit="contain" 
        label="Wood shaving from timber processing" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true">
 
@@ -129,7 +129,7 @@ In the 1980s, the value of hardwood tree species such as Cryptomeria crashed, as
 
 Today, Japan is the most densely forested developed nation in the world as a result of the afforestation policy in the late twentieth century[^26].  The massive swathes of the monoculture plantations across the country, however, are aging. Many have been abandoned due to high management costs and low profits from Cryptomeria forests, despite government subsidies. The increase of unattended and aging stands presents new concerns. 
 
-<param ve-image
+<param ve-image fit="contain" 
        label="The typical life cycle of a Cryptomeria plantation" 
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/FINAL%20DRAWING%20OF%20LIFE%20CYCLE-01.png?raw=true">
@@ -160,7 +160,7 @@ Areas where Cryptomeria trees are growing will likely remain planted with conife
 <param ve-image
        label="A landslide caused by a windstorm at a Cryptomeria plantation, destabilizing the hillside" 
        license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0117.JPG?raw=true">
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0201%20(1).JPG?raw=true">
 
 ### Pollen Nation  
 
