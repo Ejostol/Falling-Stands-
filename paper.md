@@ -116,8 +116,8 @@ The Act was aimed to build closer ties between urban and rural areas, linking pr
 Following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily. 16 million new cedar trees have been planted each year since the 1970s[^24].  
 
 <param ve-image 
-       label="Processed next to rough Cryptomeria poles" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
+       label="Wood shaving from timber processing" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true">
 
 In the 1980s, the value of hardwood tree species such as Cryptomeria crashed, as the demand for wood products lessened. Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for Cryptomeria plantations. This new international competition crippled the Japanese market, built around the afforestation program. The promise of a thriving rural economy based on harvesting forest products and efficiently distributing them from urban centers died over the course of a single decade. It also left millions of acres of planted forests with little economic value. Furthermore, after an earthquake devastated large areas of Japan in 1995, the government created strict regulations around the types of timber suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree[^25].  
 
@@ -136,7 +136,7 @@ Today, Japan is the most densely forested developed nation in the world as a res
 
 The monoculture planting has changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have more living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi.[^27] Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists have studied these thinning practices to determine the optimal ways to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches.[^28] 
 
-<param ve-image
+<param ve-image rotate="90"
        label="Tended and coppiced Cryptomeria plot" 
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
