@@ -104,13 +104,33 @@ In the 1980s, the value of hardwood tree species such as Cryptomeria crashed, as
 
 Today, Japan is the most densely forested developed nation in the world as a result of the afforestation policy in the late twentieth century[^26].  The massive swathes of the monoculture plantations across the country, however, are aging. Many have been abandoned due to high management costs and low profits from Cryptomeria forests, despite government subsidies. The increase of unattended and aging stands presents new concerns. 
 
+<param ve-image
+       label="The typical life cycle of a Cryptomeria plantation" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/FINAL%20DRAWING%20OF%20LIFE%20CYCLE-01.png?raw=true">
+
 The monoculture planting has changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have more living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi.[^27] Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists have studied these thinning practices to determine the optimal ways to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches.[^28] 
 
 Cryptomeria plantations also pose a significant risk for avalanches and soil slides. The trees have horizontal, shallow roots, and are therefore in danger of falling and stripping away anything else in their path. Such risks are particularly high during heavy rainfall or typhoons, which are common across the archipelago and are projected to increase in intensity and frequency due to climate change.[^29]
 
+<param ve-image
+       label="A landslide caused by a windstorm at a Cryptomeria plantation, destabilizing the hillside" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
+
 Transitioning to more diverse forestry species and practices is a lengthy process. In order for the eighty species of deciduous hardwood trees that grow in Japan to take root on plantations that have been planted in conifer monocultures, the seeds must blow in and have adequate sunlight and light to become established. Areas that have been completely clearer for Cryptomeria plantations over longer periods of time particularly resist diversification, as there are no local sources of seeds.[^30] Even on abandoned plantation sites, regenerating cedars compete with spontaneously growing species, making it difficult for new woody plants to establish.[^31] As a result, in order to increase the number of forest species, the entire landscape of Japan, not just the individual plantations, need to be managed and diversified.   
 
-Areas where Cryptomeria trees are growing will likely remain planted with conifers for hundreds of years, while areas where they have been cut down will see new species emerge on the forest floor and create new types of plant communities. This type of mixed forest is likely to take over large areas of current Japanese cedar plantations as they are abandoned. Once again, the species composition of Japan will be transformed as the Japanese landscape is reshaped by forestry. This new type of forest will require new management practices and a different approaches, learning from connections within diverse ecosystems instead of merely dealing with plantations and spontaneously growing forest. 
+<param ve-image
+       label="A partially harvested Cryptomeria plot next to a heavily shaded grove" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0117.JPG?raw=true">
+
+Areas where Cryptomeria trees are growing will likely remain planted with conifers for hundreds of years, while areas where they have been cut down will see new species emerge on the forest floor and create new types of plant communities. This type of mixed forest is likely to take over large areas of current Japanese cedar plantations as they are abandoned. Once again, the species composition of Japan will be transformed as the Japanese landscape is reshaped by forestry. This new type of forest will require new management practices and a different approaches, learning from connections within diverse ecosystems instead of merely dealing with plantations and spontaneously growing forest.
+
+<param ve-image
+       label="A landslide caused by a windstorm at a Cryptomeria plantation, destabilizing the hillside" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0117.JPG?raw=true">
 
 ### Pollen Nation  
 
