@@ -1,12 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-      title="Cryptomeria japonica"
+      title="Cryptomeria japonica: Climate Change, Cultivation, and Culture"
        author="Kira Clingen and Edyth Jostol"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7b/Cryptomeria_japonica_SZ124b.png"
        layout="vertical">
-
-# Japanese Cedar: Climate Change, Cultivation, and Culture
 
 Japanese cedar (_Cryptomeria japonica_), sugi in Japanese, is the national tree of Japan and the most widely planted tree species in the country[^1]. It was the backbone of a massive and successful afforestation project following World War II and the Korean War[^2]. Today, 70% of Japan is forested, 24.5% of this forest is artificial. The once present affinity that led to the widespread planting of the species has tarnished. Cryptomeria is now known for the massive amounts of pollen that the female trees produce each spring[^3]. In recent decades, spring in Japan has become synonymous with a drastic public health hazard, as one quarter of the population is commonly afflicted with Japanese cedar pollinosis. 
 
