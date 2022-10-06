@@ -35,7 +35,7 @@ A ubiquitous evergreen conifer planted on all four of Japan’s main islands, Cr
        license="Image by authors, no permission needed" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_0548.JPG?raw=true">
 
-Cryptomeria japonica is a dioecious tree and the only species in the genus Cryptomeria. It is part of the Cupressacae family found on all continents, which includes junipers, cypresses, and redwoods.[^5] Its distinctive pyramidical form with tiered branching appears in traditional Japanese paintings of temples and shrine complexes, often creating a visual backdrop to isolate the sacred space from the wilderness. Associated with religious sites, the tree is used as an ornamental species, and in large groves or to demarcate boundaries. There is a tradition of designating older, larger sugi trees as sacred objects, ritually wrap them in shimenawa, cloth pieces that demarcate places of spiritual significance. In such locations, sugi is prized, with each individual specimen receiving high levels of maintenance and stewardship. 
+_Cryptomeria japonica_ is a dioecious tree and the only species in the genus Cryptomeria. It is part of the Cupressacae family found on all continents, which includes junipers, cypresses, and redwoods.[^5] Its distinctive pyramidical form with tiered branching appears in traditional Japanese paintings of temples and shrine complexes, often creating a visual backdrop to isolate the sacred space from the wilderness. Associated with religious sites, the tree is used as an ornamental species, and in large groves or to demarcate boundaries. There is a tradition of designating older, larger sugi trees as sacred objects, ritually wrap them in shimenawa, cloth pieces that demarcate places of spiritual significance. In such locations, sugi is prized, with each individual specimen receiving high levels of maintenance and stewardship. 
 
 <param ve-image url="crypto-sacred.jpg"
        label="Hagurosan no Jiji Sugi wrapped in shimenawa near Showai, Japan. Image by さかおり, 2022." 
@@ -62,27 +62,28 @@ _Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. O
 <param ve-image region="316,0,689,523"
        label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria. The set of 20 scrolls were produced by the Fujiwara clan and completed in 1309." 
        license="public domain" 
+       region= "-18,-254,3885,3059"
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
-       region="-18,-254,3885,3059"
+       
 
 Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the series Thirty-six Views of Mount Fuji, is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
 <param ve-image
        label="Mishima Pass in Kai, a wood print of Mt. Fuji with Cryptomeria. Printed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
        license="public domain" 
-       url="https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
+       url= "https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
 
 Groves of _Cryptomeria japonica_ were typically associated with temple complexes. At Ryōan-ji, a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as daisūgi, a coppicing technique that emerged during the Muromachi period (1336–1573) to create thinner posts for tea room construction.[^10] Built in 1617, Nikko Tosho-gu Shrine, also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the Avenue of Cedars that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape.[^11]    
 
 <param ve-image 
        label="A temple on the Shikoku Pilgrimage trail, one of eighty-eight shrines that this path connects. Shikoku is the smallest of Japan's four major islands. Sūgi were planted as a boundary demarcating the devotional space around each temple. Image by authors, 2019." 
        license="Image by authors, no permission needed." 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
+       url= "https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
 
 Established in 4 BCE, the Ise Jingū shrine remains situated in a chinju no mori (sacred shrine forest) of dense Cryptomeria. Historically Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, the architecture of Ise is simple, and has been positioned as more “Japanese” than the later built more baroque shrines.  After World War II, when shinto was disassociated from the government, the natural setting, Cryptomeria forest, became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
 
 <param ve-image
-       label="A ukiyo-e depicting Emperor Meiji (center) worshiping "Ise Jingu" on March 11, 1869. Cryptomeria are shown surrounding the shrine. Created by Sadahide Utagawa, 1869." 
+       label="A ukiyo-e depicting Emperor Meiji worshipping Ise Jingu on March 11, 1869. Cryptomeria are shown surrounding the shrine. Created by Sadahide Utagawa, 1869." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png">
 
@@ -102,42 +103,47 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0713.JPG?raw=true">
 
-This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago northern Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. Cryptomeria only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in[^17].  
+This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago northern Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. _Cryptomeria_ only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in.[^17] On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time.[^18]  
 
 <param ve-image
-       label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by the authors." 
-       license="Image created by Kira Clingen and Edyth Jostol, 2022, no permission needed." 
-       fit=(-87,-599,3475,3000)
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Species.png?raw=true">
-
-On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time[^18].  
+       label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by the authors, 2019." 
+       license="Image created by Kira Clingen and Edyth Jostol no permission needed." 
+       region= "-87,-599,3475,3000"
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Species.png?raw=true"
 
 <param ve-image fit="contain" 
        label="An old railway track on Yakushima Island used to bring Cryptomeria logs from the mountainous inland forest to the coast for processing and shipment" 
        license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0143.JPG?raw=true">
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0143.JPG?raw=true"
 
-The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II (1941-1945) and the Korean War (1950-1953). Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested[^19].  In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
+The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II (1941-1945) and the Korean War (1950-1953). Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested.[^19] In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
 
 <param ve-image 
-       label="Cryptomerias in Yakushima Island’s primary forest are multi-species assemblages with a deciduous overstory, epiphytes, and an evergreen broadleaf understory" 
+       label="Cryptomeria in Yakushima Island’s primary forest are part of a multi-species plant community with a deciduous overstory, epiphytes, and an evergreen broadleaf understory. This collage of four images portrays a single tree from its roots to canopy. Image by authors, 2019." 
+       region="-129,75,928,747"
+       license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/Anno%202_2.PNG?raw=true">
 
 ### Crypto Currency: from Specimen Species to Monoculture Mascot 
 
-Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers[^20]. These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Rhetoric around post war reforestation focused on the need to restore the national landscape, the reform slogan was ‘[making] the mountains green’ (yama o midori ni), invoking the image of Japan as a green archipelago. The reforms were targeted to upland regions but the message was on a national scale, expanding the importance of these economies to the wellbeing of the country as a whole. The Emperor became a vocal supporter of and active participant in annual national tree planting ceremonies, when participating he always planted cryptomeria.[^21]
+Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers.[^20] These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Rhetoric around post war reforestation focused on the need to restore the national landscape, the reform slogan was ‘[making] the mountains green’ (yama o midori ni), invoking the image of Japan as a green archipelago. The reforms were targeted to upland regions but the message was on a national scale, expanding the importance of these economies to the wellbeing of the country as a whole. The Emperor became a vocal supporter of and active participant in annual national tree planting ceremonies, when participating he always planted cryptomeria.[^21]
+
+<param ve-image url="crypto-lumber.jpg"
+       label="An old railway track on Yakushima Island used to bring Cryptomeria logs from the mountainous inland forest to the coast for processing and shipment" 
+       license="public domain" 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0143.JPG?raw=true"
 
 <param ve-image 
        label="Historical photograph of forester on Yakushima Island" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3081-01.JPG?raw=true">
 
-In 1964, the Forestry Basic Act was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast[^22]. The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets[^23]. These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber[^24]. 
+In 1964, the Forestry Basic Act was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast.[^22] The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets.[^23] These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber.[^24] 
 
 <param ve-image fit="contain" 
        label="Freshly processed timber set to be exported" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0018.JPG?raw=true">
 
-The reforestation campaign focused on conifer plantings, with subsidies and compulsion[^25], so following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily. Since the 1970s, 16 million new cedar trees have been planted annually[^26][^27].  
+The reforestation campaign focused on conifer plantings, with subsidies and compulsion[^25], so following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily. Since the 1970s, 16 million new cedar trees have been planted annually.[^26][^27]  
 
 <param ve-image fit="contain" 
        label="Wood shaving from timber processing" 
