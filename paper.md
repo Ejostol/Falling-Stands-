@@ -6,35 +6,41 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7b/Cryptomeria_japonica_SZ124b.png"
        layout="vertical">
 
-Japanese cedar (_Cryptomeria japonica_), sugi in Japanese, is the national tree of Japan and the most widely planted tree species in the country[^1]. It was the backbone of a massive and successful afforestation project following World War II and the Korean War[^2]. Today, 70% of Japan is forested, 24.5% of this forest is artificial. The once present affinity that led to the widespread planting of the species has tarnished. Cryptomeria is now known for the massive amounts of pollen that the female trees produce each spring[^3]. In recent decades, spring in Japan has become synonymous with a drastic public health hazard, as one quarter of the population is commonly afflicted with Japanese cedar pollinosis. 
+Japanese cedar (_Cryptomeria japonica_), sugi in Japanese, is the national tree of Japan and the most widely planted tree species in the country.[^1] It was the backbone of a massive and successful afforestation project following World War II and the Korean War.[^2] Today, 70% of Japan is forested, 24.5% of this forest is artificial. The once present affinity that led to the widespread planting of the species has tarnished. Cryptomeria is now known for the massive amounts of pollen that the female trees produce each spring.[^3] In recent decades, spring in Japan has become synonymous with a drastic public health hazard, as one quarter of the population is commonly afflicted with Japanese cedar pollinosis. 
 
 <param ve-image 
        label="A plantation of Cryptomeria near the Nakagawa Revitalization Project on Honshu Island. Image by authors, 2019." 
-       license="Image by authors, no permissions needed
+       license="Image by authors, no permissions needed"
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0196.JPG?raw=true">
                                                                                                                                                
        
 While Cryptomeria’s cultural significance is well documented through history, its current copious planting is a conscious choice that reflects the idea of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century shows how a single species can culturally, economically, and spiritually shape a national landscape. Today, as aging monocultural stands of sugi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
  
 <param ve-image rotate="90"
-       label="A single Cryptomeria tree rising over one-hundred feet. Image by authors, 2019." 
+       label="A single Cryptomeria tree rising over 100 feet. Image by authors, 2019." 
        license="Image by authors, no permissions needed"
        url="https://upload.wikimedia.org/wikipedia/commons/8/81/Cryptomeria_japonica_specimen.jpg">
 
 
 ### All in the Family 
 
-A ubiquitous evergreen conifer planted on all four of Japan’s main islands, Cryptomeria japonica is native to China and Japan. Numerous archeological studies examined buried traces of Japanese cedar pollen to trace the tree’s habitation patterns, confirming that the species has existed in small forested areas since around 13,000 BCE. Cryptomeria increased its presence on the island significantly following a change in climate that took place from 5,000 BCE to Common Era, when the country’s environment generally became colder and wetter, a climate ideal for cedar trees[^4]. 
-Cryptomeria japonica is a dioecious tree and the only species in the genus Cryptomeria. It is part of the Cupressacae family found on all continents, which includes junipers, cypresses, and redwoods[^5].  Its distinctive pyramidical form with tiered branching appears in traditional Japanese paintings of temples and shrine complexes, often creating a visual backdrop to isolate the sacred space from the wilderness. Associated with religious sites, the tree is used as an ornamental species, and in large groves or to demarcate boundaries. There is a tradition of designating older, larger sugi trees as sacred objects, ritually wrap them in shimenawa, cloth pieces that demarcate places of spiritual significance. In such locations, sugi is prized, with each individual specimen receiving high levels of maintenance and stewardship. 
+A ubiquitous evergreen conifer planted on all four of Japan’s main islands, Cryptomeria japonica is native to China and Japan. Numerous archeological studies examined buried traces of Japanese cedar pollen to trace the tree’s habitation patterns, confirming that the species has existed in small forested areas since around 13,000 BCE. Cryptomeria increased its presence on the island significantly following a change in climate that took place from 5,000 BCE to Common Era, when the country’s environment generally became colder and wetter, a climate ideal for cedar trees.[^4] 
 
 <param ve-image rotate="90"
-       label="Raised cryptomeria stump over a sūgi hiking trail on Yakushima Island. Image by authors, 2019." 
+       label="A 300-year old Cryptomeria stump flanks a hiking trail in the old growth forest on Yakushima Island. While most of Japan's Cryptomeria are planted as monocultures, the cedars on Yakushima Island grow in a mixed community of epiphytes, mosses, shrubs, and trees. Image by authors, 2019." 
        license="Image by authors, no permission needed" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_0548.JPG?raw=true">
 
+Cryptomeria japonica is a dioecious tree and the only species in the genus Cryptomeria. It is part of the Cupressacae family found on all continents, which includes junipers, cypresses, and redwoods.[^5] Its distinctive pyramidical form with tiered branching appears in traditional Japanese paintings of temples and shrine complexes, often creating a visual backdrop to isolate the sacred space from the wilderness. Associated with religious sites, the tree is used as an ornamental species, and in large groves or to demarcate boundaries. There is a tradition of designating older, larger sugi trees as sacred objects, ritually wrap them in shimenawa, cloth pieces that demarcate places of spiritual significance. In such locations, sugi is prized, with each individual specimen receiving high levels of maintenance and stewardship. 
+
+<param ve-image crypto-sacred.jpg
+       label="Hagurosan no Jiji Sugi wrapped in shimenawa near Showai, Japan. Image by さかおり, 2022." 
+       license="public domain" 
+       url="https://commons.wikimedia.org/wiki/File:Hagurosan_no_Jiji_Sugi_January_2022_D.jpg"
+
 ### Historical and Cultural Landscapes      
 
-Sugi was planted for its millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. _Nihon Shoki_, the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to Susanoo, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships[^6][^7].   
+Sugi was planted for its millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. _Nihon Shoki_, the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to Susanoo, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships.[^6][^7]   
 
 <param ve-image 
        label="Zen garden at Ryoan-ji, with two prominent Cryptomeria visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space" 
