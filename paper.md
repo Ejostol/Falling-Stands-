@@ -44,8 +44,8 @@ _Cryptomeria japonica_ is a dioecious tree and the only species in the genus Cry
 
 <param ve-image url="crypto-pyramid.jpg"
        label="The distinctly pyramidal form of a single Cryptomeria tree growing Bathumi, Georgia. Image by Lazaregagnidze, 2011." 
-       license="public domain" 
-       source="https://commons.wikimedia.org/wiki/File:Cryptomeria_japonica_var_piramidalis_Japanese_Cedar_%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%A0%E1%83%98%E1%83%9E%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90.JPG"
+       license="public domain"
+       source="https://upload.wikimedia.org/wikipedia/commons/d/db/Cryptomeria_japonica_var_piramidalis_Japanese_Cedar_%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%A0%E1%83%98%E1%83%9E%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90.JPG"
       
 
 ### Historical and Cultural Landscapes      
@@ -108,7 +108,7 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0713.JPG?raw=true">
        
- <param ve-image  url="yakushima-map.jpg"
+ <param ve-image  url="yakushima-map.JPG"
        label="A map of ferry routes and trees on Yakushima Island. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
         
@@ -136,6 +136,7 @@ Following the World War II period, the Japanese government instigated a series o
 <param ve-image url="crypto-lumber.jpg"
        label="Sawmill workers chopping Cryptomeria into lumber. Image by B.L. Singley, 1905." 
        license="public domain. Property of the US Government, no permissions needed" 
+       region="65,-117,960,772"
        source="https://www.loc.gov/item/2020637700/"
 
 
@@ -143,35 +144,35 @@ In 1964, the Forestry Basic Act was passed, which effectively established a nati
 
 <param ve-image fit="contain" 
        license= "Image by authors, no permissions required."
-       label="Freshly processed timber set to be exported. Images by author, 2019." 
+       label="Cryptomeria cut into standard timber sizes to be exported. Image by author, 2019." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0018.JPG?raw=true">
 
-The reforestation campaign focused on conifer plantings, with subsidies and compulsion[^25], so following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily. Since the 1970s, 16 million new cedar trees have been planted annually.[^26][^27]  
+The reforestation campaign focused on conifer plantings, with subsidies and compulsion, so following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily.[^25] Since the 1970s, 16 million new cedar trees have been planted annually.[^26][^27]  
 
 <param ve-image fit="contain" 
-       label="Wood shaving from timber processing"
+       label="Wood shaving from timber processing at a Japanese sawmill. Image by authors, 2019."
        license="Image by authors, no permissions needed." 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true">
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true"
 
-In the 1980s, the value of hardwood tree species such as Cryptomeria crashed, as the demand for wood products lessened. The intention behind the reforestation plan was to build upland economies, but the increase in forestry support was too late and inflexible. By the time planted trees grew to size the post wartime demand had started to wane and Japan had begun to import international resources[^28]. Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for Cryptomeria plantations. Tropical timber from islands including Borneo, which was cheaper to harvest and of a higher quality, entered the market. This new international competition crippled the Japanese market. The promise of a thriving rural economy based around harvesting forest products and efficiently distributing them to urban centers died over the course of a single decade, leaving millions of acres of planted forests with little economic value. Furthermore, after the Great Hanshin earthquake devastated large areas of Japan in 1995, the government created strict regulations around the types of timber that it deemed suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree[^29]. 
+In the 1980s, the value of hardwood tree species such as _Cryptomeria_ crashed, as the demand for wood products lessened. The intention behind the reforestation plan was to build upland economies, but the increase in forestry support was too late and inflexible. By the time planted trees grew to size the post wartime demand had started to wane and Japan had begun to import international resources.[^28] Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for _Cryptomeria_ plantations. Tropical timber from islands including Borneo, which was cheaper to harvest and of a higher quality, entered the market. This new international competition crippled the Japanese market. The promise of a thriving rural economy based around harvesting forest products and efficiently distributing them to urban centers died over the course of a single decade, leaving millions of acres of planted forests with little economic value. Furthermore, after the Great Hanshin earthquake devastated large areas of Japan in 1995, the government created strict regulations around the types of timber that it deemed suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree.[^29] 
 
-While the economic promises came up short, the idea of restoring the green archipelago seemingly was met. Japan’s timber market came to rely on pollution exports of less wealthy countries while maintaining their national forests. But the manufactured forests host a different environmental issue, under-cutting and over-forestation. Conversations around forestry’s lack of financial success has been framed as a personal failing, or blames the undercutting of the international market, largely ignoring the role of national reforestation efforts after World War II[^30]. 
+While the economic promises came up short, the idea of restoring the green archipelago seemingly was met. Japan’s timber market came to rely on pollution exports of less wealthy countries while maintaining their national forests. But the manufactured forests host a different environmental issue, under-cutting and over-forestation. Conversations around forestry’s lack of financial success has been framed as a personal failing, or blames the undercutting of the international market, largely ignoring the role of national reforestation efforts after World War II.[^30] 
 
 <param ve-image 
-       label="Processed next to rough Cryptomeria poles" 
+       label="Rough and sanded Cryptomeria poles. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
 ### Growth in the Twenty-First Century 
 
-Today, because of the late twentieth-century afforestation policy, Japan is the most densely forested developed nation in the world[^31]. But the massive swathes of the monoculture plantations across the country, are aging. Many have been abandoned due to high management costs and low profits from Cryptomeria forests, despite government subsidies. The increase of unattended and aging stands presents new concerns. 
+Today, because of the late twentieth-century afforestation policy, Japan is the most densely forested developed nation in the world.[^31] But the massive swaths of the monoculture plantations across the country are aging. Many have been abandoned due to high management costs and low profits from Cryptomeria forests, despite government subsidies. The increase of unattended and aging stands presents new concerns. 
 
 <param ve-image fit="contain" 
        label="The typical life cycle of a Cryptomeria plantation. Image by Kira Clingen, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/FINAL%20DRAWING%20OF%20LIFE%20CYCLE-01-01.jpg?raw=true">
 
-Monoculture plantings have changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have a high level of living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi[^32][^33]. Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists are studying tree thinning practices to determine the optimal way to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches[^34]. 
+Monoculture plantings have changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have a high level of living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi.[^32][^33] Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists are studying tree thinning practices to determine the optimal way to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches.[^34] 
 
 <param ve-image url="crypto-timbermap.jpg"
        label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressacae. Map adapted by Kira Clingen from Masaki et al., "Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives," Reforesta 3 (2017): 125-142 and  Japan Forestry Agency, State of Japan's Forest and FOrest Management, Tokyo: Japanese Forestry Agency, 2009."  
@@ -179,7 +180,7 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
 <param ve-image rotate="90"
-       label="Tended and coppiced Cryptomeria plot" 
+       label="Coppiced Cryptomeria trees in " 
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
        
