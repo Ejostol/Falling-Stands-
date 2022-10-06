@@ -63,6 +63,7 @@ _Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. O
        label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria. The set of 20 scrolls were produced by the Fujiwara clan and completed in 1309." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
+       region="-18,-254,3885,3059"
 
 Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the series Thirty-six Views of Mount Fuji, is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
@@ -78,24 +79,27 @@ Groves of _Cryptomeria japonica_ were typically associated with temple complexes
        license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
 
-Established in 4 BCE, the Ise Jingū shrine remains situated in a chinju no mori (sacred shrine forest) of dense cryptomeria. Historically Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, the architecture of Ise is simple, and has been positioned as more “Japanese” than the later built more baroque shrines.  After World War II, when shinto was disassociated from the government, the natural setting, Cryptomeria forest, became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
+Established in 4 BCE, the Ise Jingū shrine remains situated in a chinju no mori (sacred shrine forest) of dense Cryptomeria. Historically Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, the architecture of Ise is simple, and has been positioned as more “Japanese” than the later built more baroque shrines.  After World War II, when shinto was disassociated from the government, the natural setting, Cryptomeria forest, became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
 
 <param ve-image
-       label="A photograph of the Avenue of Cedars in Nikko, part of the shrine’s forest" 
+       label="A ukiyo-e depicting Emperor Meiji (center) worshiping "Ise Jingu" on March 11, 1869. Cryptomeria are shown surrounding the shrine. Created by Sadahide Utagawa, 1869." 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/1/16/Een_laan_met_hoge_bomen%2C_Nikko_%2C_Japan%2C_RP-F-2000-9-34.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png">
 
 During his travels in Japan in the late nineteenth century, Charles Sprague Sargent—an American botanist and the first director of the Arnold Arboretum—documented _Cryptomeria japonica_ as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the shōgun, in 1616. As he wrote, “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^13]   
 
-
+<param ve-image
+       label="A hand-colored albumen print of Imaichi road in Nikko. Attributed to Charles Leander Weed, 1880." 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Imaichi_road_in_Nikko_%28hand-colored_albumen_print%2C_Japan%29_%2816423543800%29.jpg">
 
 ### A View from Yakushima Island 
 
-[Princess Mononoke](https://en.wikipedia.org/wiki/Princess_Mononoke), the 1997 Japanese fantasy film directed by Hayao Miyazaki and set in the Muromachi period, tells the story of a battle over the survival of the Great Forest Spirit, an animist deity who lives among ancient sugi trees[^14]. For inspiration for the animated landscapes in his film, Miyazaki traveled to Yakushima Island in the south-west of Japan.  The island’s environmental history offers a lens for understanding the complexity of Japan’s forest history and policy. It is home to one of the last remaining primary Cryptomeria forest, which includes the country’s largest conifer tree, Jōmon-Sūgi, estimated to be over 2,170 years old. The tree grows alongside deciduous overstory species, such as oak and chestnut, with an evergreen broadleaf understory including rhododendrons and epiphytes that grow on branches[^15][^16].  
+[Princess Mononoke](https://en.wikipedia.org/wiki/Princess_Mononoke), the 1997 Japanese fantasy film directed by Hayao Miyazaki and set in the Muromachi period, tells the story of a battle over the survival of the Great Forest Spirit, an animist deity who lives among ancient sugi trees.[^14] For inspiration for the animated landscapes in his film, Miyazaki traveled to Yakushima Island in the south-west of Japan. The island’s environmental history offers a lens for understanding the complexity of Japan’s forest history and policy. It is home to one of the last remaining primary _Cryptomeria_ forest, which includes the country’s largest conifer tree, Jōmon-Sūgi, estimated to be over 2,170 years old. The tree grows alongside deciduous overstory species, such as oak and chestnut, with an evergreen broadleaf understory including rhododendrons and epiphytes that grow on branches.[^15][^16]  
 
 <param ve-image  rotate="90"
-       label="An old railway track on Yakushima Island used to bring Cryptomeria logs from the mountainous inland forest to the coast for processing and shipment" 
-       license="public domain" 
+       label="Jōmon-Sūgi on Yakushima Island. Image by authors, 2019." 
+       license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0713.JPG?raw=true">
 
 This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago northern Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. Cryptomeria only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in[^17].  
