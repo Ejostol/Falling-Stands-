@@ -135,7 +135,7 @@ Today, because of the late twentieth-century afforestation policy, Japan is the 
 <param ve-image fit="contain" 
        label="The typical life cycle of a Cryptomeria plantation" 
        license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/FINAL%20DRAWING%20OF%20LIFE%20CYCLE-01.png?raw=true">
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/FINAL%20DRAWING%20OF%20LIFE%20CYCLE-01-01.jpg?raw=true">
 
 Monoculture plantings have changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have a high level of living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi[^32][^33]. Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists are studying tree thinning practices to determine the optimal way to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches[^34]. 
 
