@@ -12,8 +12,12 @@ Japanese cedar (_Cryptomeria japonica_), sugi in Japanese, is the national tree 
        label="A plantation of Cryptomeria near the Nakagawa Revitalization Project on Honshu Island. Image by authors, 2019." 
        license="Image by authors, no permissions needed"
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0196.JPG?raw=true">
-                                                                                                                                               
        
+<param ve-image url="crypto-specimen.jpg"
+       label="Cryptomeria specimen planted in the Coker Arboretum at the University of North Carolina at Chapel Hill. This image belongs to the Digital Collection of the Harvard University Herbaria." 
+       license="Image by authors, no permissions needed"
+       source="https://data.huh.harvard.edu/databases/specimen_search.php?mode=details&id=895668">       
+                                                                                                                                                 
 While Cryptomeria’s cultural significance is well documented through history, its current copious planting is a conscious choice that reflects the idea of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century shows how a single species can culturally, economically, and spiritually shape a national landscape. Today, as aging monocultural stands of sugi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
  
 <param ve-image rotate="90"
@@ -33,49 +37,57 @@ A ubiquitous evergreen conifer planted on all four of Japan’s main islands, Cr
 
 Cryptomeria japonica is a dioecious tree and the only species in the genus Cryptomeria. It is part of the Cupressacae family found on all continents, which includes junipers, cypresses, and redwoods.[^5] Its distinctive pyramidical form with tiered branching appears in traditional Japanese paintings of temples and shrine complexes, often creating a visual backdrop to isolate the sacred space from the wilderness. Associated with religious sites, the tree is used as an ornamental species, and in large groves or to demarcate boundaries. There is a tradition of designating older, larger sugi trees as sacred objects, ritually wrap them in shimenawa, cloth pieces that demarcate places of spiritual significance. In such locations, sugi is prized, with each individual specimen receiving high levels of maintenance and stewardship. 
 
-<param ve-image crypto-sacred.jpg
+<param ve-image url="crypto-sacred.jpg"
        label="Hagurosan no Jiji Sugi wrapped in shimenawa near Showai, Japan. Image by さかおり, 2022." 
        license="public domain" 
-       url="https://commons.wikimedia.org/wiki/File:Hagurosan_no_Jiji_Sugi_January_2022_D.jpg"
+       source="https://commons.wikimedia.org/wiki/File:Hagurosan_no_Jiji_Sugi_January_2022_D.jpg"
+
+<param ve-image url="crypto-pyramid.jpg"
+       label="The distinctly pyramidal form of a single Cryptomeria tree growing Bathumi, Georgia. Image by Lazaregagnidze, 2011." 
+       license="public domain" 
+       source="https://commons.wikimedia.org/wiki/File:Cryptomeria_japonica_var_piramidalis_Japanese_Cedar_%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%A0%E1%83%98%E1%83%9E%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90.JPG"
+      
 
 ### Historical and Cultural Landscapes      
 
 Sugi was planted for its millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. _Nihon Shoki_, the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to Susanoo, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships.[^6][^7]   
 
 <param ve-image 
-       label="Zen garden at Ryoan-ji, with two prominent Cryptomeria visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space" 
-       license="public domain" 
+       label="Zen garden at Ryoan-ji, with two prominent Cryptomeria visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space. Image by authors, 2019." 
+       license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3793%20(1).JPG?raw=true">
 
-Cryptomeria japonica is depicted in the 1309 painted scrolls Kasuga Gongen Genki. One image shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the building of the Kasuga Shrine nor in the forest, dominating the foreground. Carefully maintained, this tree still stands in the Nara prefecture, having withstood the building’s reconstructions[^8].   
+_Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. One image shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the building of the Kasuga Shrine nor in the forest, dominating the foreground. Carefully maintained, this tree still stands in the Nara prefecture, having withstood the building’s reconstructions.[^8]   
 
 <param ve-image region="316,0,689,523"
-       label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria" 
+       label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria. The set of 20 scrolls were produced by the Fujiwara clan and completed in 1309." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
 
-Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the Thirty-six Views of Mount Fuji, is dominated by an enormous Cryptomeria japonica trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape[^9].   
+Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the series Thirty-six Views of Mount Fuji, is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
 <param ve-image
-       label="Mishima Pass in Kai, a wood print of Mt. Fuji with Cryptomeria" 
+       label="Mishima Pass in Kai, a wood print of Mt. Fuji with Cryptomeria. Printed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
        license="public domain" 
        url="https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
 
-Groves of Cryptomeria japonica were typically associated with temple complexes. At Ryōan-ji , a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as daisūgi, a coppicing technique that emerged during the Muromachi period (1336–1573) to create thinner posts for tea room construction[^10].  Built in 1617, Nikko Tosho-gu Shrine, also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the Avenue of Cedars that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape[^11].    
+Groves of _Cryptomeria japonica_ were typically associated with temple complexes. At Ryōan-ji, a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as daisūgi, a coppicing technique that emerged during the Muromachi period (1336–1573) to create thinner posts for tea room construction.[^10] Built in 1617, Nikko Tosho-gu Shrine, also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the Avenue of Cedars that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape.[^11]    
 
 <param ve-image 
-       label="A temple on the Shikoku Pilgrimage trail, one of eighty-eight shrines that this path connects. Shikoku is the smallest of Japan's four major islands. Sūgi were planted as a boundary demarcating the devotional space around each temple" 
-       license="public domain" 
+       label="A temple on the Shikoku Pilgrimage trail, one of eighty-eight shrines that this path connects. Shikoku is the smallest of Japan's four major islands. Sūgi were planted as a boundary demarcating the devotional space around each temple. Image by authors, 2019." 
+       license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
 
-Established in 4 BCE, the Ise Jingū shrine remains situated in a chinju no mori (sacred shrine forest) of dense cryptomeria. Historically Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, the architecture of Ise is simple, and has been positioned as more “Japanese” than the later built more baroque shrines.  After World War II, when shinto was disassociated from the government, the natural setting, cryptomeria forest, became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
-
-During his travels in Japan in the late nineteenth century, Charles Sprague Sargent—an American botanist and the first director of the Arnold Arboretum—documented Cryptomeria japonica as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the shōgun, in 1616. As he wrote, “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^13]   
+Established in 4 BCE, the Ise Jingū shrine remains situated in a chinju no mori (sacred shrine forest) of dense cryptomeria. Historically Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, the architecture of Ise is simple, and has been positioned as more “Japanese” than the later built more baroque shrines.  After World War II, when shinto was disassociated from the government, the natural setting, Cryptomeria forest, became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
 
 <param ve-image
        label="A photograph of the Avenue of Cedars in Nikko, part of the shrine’s forest" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/16/Een_laan_met_hoge_bomen%2C_Nikko_%2C_Japan%2C_RP-F-2000-9-34.jpg">
+
+During his travels in Japan in the late nineteenth century, Charles Sprague Sargent—an American botanist and the first director of the Arnold Arboretum—documented _Cryptomeria japonica_ as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the shōgun, in 1616. As he wrote, “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^13]   
+
+
 
 ### A View from Yakushima Island 
 
