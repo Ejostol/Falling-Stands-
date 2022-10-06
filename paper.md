@@ -93,6 +93,11 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
        label="A hand-colored albumen print of Imaichi road in Nikko. Attributed to Charles Leander Weed, 1880." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Imaichi_road_in_Nikko_%28hand-colored_albumen_print%2C_Japan%29_%2816423543800%29.jpg">
+       
+<param ve-image url= "crypto-avenue.jpg"
+       label="The Cryptomeria Avenue in Nikko, Japan. Published by H.C. White Co., 1903, held by the Library of Congress Prints Division." 
+       license="public domain. Property of US government, no license required." 
+       source="https://www.loc.gov/item/2020634053/">
 
 ### A View from Yakushima Island 
 
@@ -102,19 +107,19 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
        label="Jōmon-Sūgi on Yakushima Island. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0713.JPG?raw=true">
+       
+ <param ve-image  url="yakushima-map.jpg"
+       label="A map of ferry routes and trees on Yakushima Island. Image by authors, 2019." 
+       license="Image by authors, no permissions needed." 
+        
 
 This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago northern Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. _Cryptomeria_ only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in.[^17] On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time.[^18]  
 
 <param ve-image
        label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by the authors, 2019." 
-       license="Image created by Kira Clingen and Edyth Jostol no permission needed." 
+       license="Image created by Kira Clingen and Edyth Jostol, no permission needed." 
        region= "-87,-599,3475,3000"
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/Species.png?raw=true"
-
-<param ve-image fit="contain" 
-       label="An old railway track on Yakushima Island used to bring Cryptomeria logs from the mountainous inland forest to the coast for processing and shipment" 
-       license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0143.JPG?raw=true"
 
 The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II (1941-1945) and the Korean War (1950-1953). Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested.[^19] In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
 
@@ -129,24 +134,23 @@ The pace of deforestation increased as the Japanese Imperial Army demanded addit
 Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers.[^20] These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Rhetoric around post war reforestation focused on the need to restore the national landscape, the reform slogan was ‘[making] the mountains green’ (yama o midori ni), invoking the image of Japan as a green archipelago. The reforms were targeted to upland regions but the message was on a national scale, expanding the importance of these economies to the wellbeing of the country as a whole. The Emperor became a vocal supporter of and active participant in annual national tree planting ceremonies, when participating he always planted cryptomeria.[^21]
 
 <param ve-image url="crypto-lumber.jpg"
-       label="An old railway track on Yakushima Island used to bring Cryptomeria logs from the mountainous inland forest to the coast for processing and shipment" 
-       license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0143.JPG?raw=true"
+       label="Sawmill workers chopping Cryptomeria into lumber. Image by B.L. Singley, 1905." 
+       license="public domain. Property of the US Government, no permissions needed" 
+       source="https://www.loc.gov/item/2020637700/"
 
-<param ve-image 
-       label="Historical photograph of forester on Yakushima Island" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3081-01.JPG?raw=true">
 
 In 1964, the Forestry Basic Act was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast.[^22] The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets.[^23] These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber.[^24] 
 
 <param ve-image fit="contain" 
-       label="Freshly processed timber set to be exported" 
+       license= "Image by authors, no permissions required."
+       label="Freshly processed timber set to be exported. Images by author, 2019." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0018.JPG?raw=true">
 
 The reforestation campaign focused on conifer plantings, with subsidies and compulsion[^25], so following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily. Since the 1970s, 16 million new cedar trees have been planted annually.[^26][^27]  
 
 <param ve-image fit="contain" 
-       label="Wood shaving from timber processing" 
+       label="Wood shaving from timber processing"
+       license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true">
 
 In the 1980s, the value of hardwood tree species such as Cryptomeria crashed, as the demand for wood products lessened. The intention behind the reforestation plan was to build upland economies, but the increase in forestry support was too late and inflexible. By the time planted trees grew to size the post wartime demand had started to wane and Japan had begun to import international resources[^28]. Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for Cryptomeria plantations. Tropical timber from islands including Borneo, which was cheaper to harvest and of a higher quality, entered the market. This new international competition crippled the Japanese market. The promise of a thriving rural economy based around harvesting forest products and efficiently distributing them to urban centers died over the course of a single decade, leaving millions of acres of planted forests with little economic value. Furthermore, after the Great Hanshin earthquake devastated large areas of Japan in 1995, the government created strict regulations around the types of timber that it deemed suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree[^29]. 
@@ -155,6 +159,7 @@ While the economic promises came up short, the idea of restoring the green archi
 
 <param ve-image 
        label="Processed next to rough Cryptomeria poles" 
+       license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
 ### Growth in the Twenty-First Century 
@@ -162,11 +167,16 @@ While the economic promises came up short, the idea of restoring the green archi
 Today, because of the late twentieth-century afforestation policy, Japan is the most densely forested developed nation in the world[^31]. But the massive swathes of the monoculture plantations across the country, are aging. Many have been abandoned due to high management costs and low profits from Cryptomeria forests, despite government subsidies. The increase of unattended and aging stands presents new concerns. 
 
 <param ve-image fit="contain" 
-       label="The typical life cycle of a Cryptomeria plantation" 
-       license="public domain" 
+       label="The typical life cycle of a Cryptomeria plantation. Image by Kira Clingen, 2019." 
+       license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/FINAL%20DRAWING%20OF%20LIFE%20CYCLE-01-01.jpg?raw=true">
 
 Monoculture plantings have changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have a high level of living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi[^32][^33]. Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists are studying tree thinning practices to determine the optimal way to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches[^34]. 
+
+<param ve-image url="crypto-timbermap.jpg"
+       label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressacae. Map adapted by Kira Clingen from Masaki et al., "Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives," Reforesta 3 (2017): 125-142 and  Japan Forestry Agency, State of Japan's Forest and FOrest Management, Tokyo: Japanese Forestry Agency, 2009."  
+       license="Image by authors, no permissions needed." 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
 <param ve-image rotate="90"
        label="Tended and coppiced Cryptomeria plot" 
@@ -174,6 +184,12 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
        
 Cryptomeria plantations also pose a significant risk for avalanches and soil slides. The trees have horizontal, shallow roots, and are therefore in danger of falling and stripping away anything else in their path. Such risks are particularly high during heavy rainfall or typhoons, which are common across the archipelago and are projected to increase in intensity and frequency due to climate change[^35].
+
+<param ve-image url="crypto-pollenmap.jpg"
+       label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These aresa are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., "Mapping of Japanese cedar forests vulnerable to global warming in Japan," Global Environmental Research 10 (2006): 181-188." 
+       license="Image created by author, no permissions needed." 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
+
 
 <param ve-image
        label="A landslide caused by a windstorm at a Cryptomeria plantation, destabilizing the hillside" 
@@ -187,9 +203,7 @@ Transitioning to more diverse forestry species and practices is a lengthy proces
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0117.JPG?raw=true">
 
-Areas where Cryptomeria trees are growing will likely remain planted with conifers for hundreds of years, while areas where they have been cut down will see new species emerge on the forest floor, creating new types of plant communities. New forms of human stewardship have begun to gain popularity in response to both monoculture plantations and an increasingly urbanized population. Starting in the late 1990s satoyama, the restoration of traditional agrarian landscapes started to gain traction, fueled by nostalgia and increased interest in biodiversity. Access to rural areas for city dwellers was increased through volunteer programs, which aim to help clear land, plant native species, create habitat for foraging sought after Matsutake mushrooms, and form connections with the landscape. The Nakagawa Revitalization Project is one example of this. Operated by retired professor Yoshiya Iwai, the project includes a community library, hosts events and home-stays and is expanding to include a hobbyist woodworking facility[^38]. 
-
-Once again, the species composition of Japan will be transformed as the Japanese landscape is reshaped by human interaction. This new type of forest will require new management practices and a different approach: learning from connections within diverse ecosystems instead of merely dealing with plantations and spontaneously growing forest.
+Areas where Cryptomeria trees are growing will likely remain planted with conifers for hundreds of years, while areas where they have been cut down will see new species emerge on the forest floor, creating new types of plant communities. New forms of human stewardship have begun to gain popularity in response to both monoculture plantations and an increasingly urbanized population. Starting in the late 1990s satoyama, the restoration of traditional agrarian landscapes started to gain traction, fueled by nostalgia and increased interest in biodiversity. Access to rural areas for city dwellers was increased through volunteer programs, which aim to help clear land, plant native species, create habitat for foraging sought after Matsutake mushrooms, and form connections with the landscape. The Nakagawa Revitalization Project is one example of this. Operated by retired professor Yoshiya Iwai, the project includes a community library, hosts events and home-stays and is expanding to include a hobbyist woodworking facility.[^38] Once again, the species composition of Japan will be transformed as the Japanese landscape is reshaped by human interaction. This new type of forest will require new management practices and a different approach: learning from connections within diverse ecosystems instead of merely dealing with plantations and spontaneously growing forest.
 
 <param ve-image
        license="public domain" 
@@ -199,26 +213,36 @@ Once again, the species composition of Japan will be transformed as the Japanese
 
 The risk of pollinosis—a reaction to the pollen released every spring as Cryptomerias begin to breed—has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring relying on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what becomes the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops employ Cryptomeria canopies to collect pollen, before it falls onto roadways where tires churn it up, creating a loop of resuspending pollen after it falls to the ground[^39]. 
 
-<param ve-image
-       label="A map showing the progression of the pollen season throughout Japan in 2017. Peak season is in the middle of March, but the season can last up to three months in some areas" 
-       license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Map%20of%20Regions_wind%20with%20colors-01.png?raw=true">
+<param ve-image "crypto-pollen2.jpg"
+       label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, "Vegetated history of Japan since last glacial period based on palynological data," Japanese Jouranl of Hitsorical Botany 25 (2016): 1-11." 
+       license="Image by authors, no permissions needed." 
+      
 
-The Japanese government has worked to genetically alter the species, which would allow the rural forestry industry to continue in an era of increasing urbanization in Japan. It started a campaign to produce pollen without the allergens _Cry j1_ and _Cry j2_, which create symptoms of pollinosis. Research agencies across the archipelago breed these hypo-allergenic trees for future plantations. Since 2007, 130 different pollen-free varieties have been produced. The cost of these trees makes them a challenge to plant as an alternative to the non-modified Cryptomeria trees. A program of subsidies from the Japanese government, however, attempts to lessen the burden on foresters[^40]. 
+The Japanese government has worked to genetically alter the species, which would allow the rural forestry industry to continue in an era of increasing urbanization in Japan. It started a campaign to produce pollen without the allergens _Cry j1_ and _Cry j2_, which create symptoms of pollinosis. Research agencies across the archipelago breed these hypo-allergenic trees for future plantations. Since 2007, 130 different pollen-free varieties have been produced. The cost of these trees makes them a challenge to plant as an alternative to the non-modified Cryptomeria trees. A program of subsidies from the Japanese government, however, attempts to lessen the burden on foresters.[^40] 
 
 <param ve-image
-       label="Allergy-free Cryptomeria seedlings grown under cloth at the Nakagawa Revitalization Project" 
-       license="public domain" 
+       label="Allergy-free Cryptomeria seedlings grown under cloth at the Nakagawa Revitalization Project. Image by authors, 2019." 
+       license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0126.JPG?raw=true">
 
 ### Taking a Stand 
 
-The Cryptomeria afforestation project shows the dangers of treating rural forest areas as an economic resource independent of international networks with little consideration for the industry's effect on local populations and environments. The policies of the Forestry and Forest Basic Act of 1964 enabled the creation of landscapes that now generate a national, annual public health crisis. The fallout of these policies reveals how interconnected urban and rural areas are, trees growing hundreds of miles from urban centers dramatically affect the lives of millions of city inhabitants. These issues are likely to continue until the forests are restored to a new kind of ecological balance, as other species are reintroduced. to Cryptomeria monocultures, expanding the importance of maintaining a green archipelago to include localized biodiversity. The story of Cryptomeria suggests that falling stands can give rise to many models of regeneration and adaptation.
+The _Cryptomeria_ afforestation project shows the dangers of treating rural forest areas as an economic resource independent of international networks with little consideration for the industry's effect on local populations and environments. The policies of the Forestry and Forest Basic Act of 1964 enabled the creation of landscapes that now generate a national, annual public health crisis. The fallout of these policies reveals how interconnected urban and rural areas are, trees growing hundreds of miles from urban centers dramatically affect the lives of millions of city inhabitants. These issues are likely to continue until the forests are restored to a new kind of ecological balance, as other species are reintroduced to _Cryptomeria_ monocultures, expanding the importance of maintaining a green archipelago to include localized biodiversity. The story of _Cryptomeria_ suggests that falling stands can give rise to many models of regeneration and adaptation.
 
 <param ve-image
-       label="A photogrammetry composite image of 109 images of a Cryptomeria tree and seedling. This living Cryptomeria shows the complex associations the cedars growing on Yakushima have evolved. An oak seedling grows on the side of the tree, while moss colonizes the trunk and smaller Stewartia grow in close proximity to the base of the tree" 
-       license="public domain" 
+       label="A photogrammetry composite image of 109 images of a Cryptomeria tree and seedling. This living Cryptomeria shows the complex associations the cedars growing on Yakushima have evolved. An oak seedling grows on the side of the tree, while moss colonizes the trunk and smaller Stewartia grow in close proximity to the base of the tree. Image by Kira Clingen, 2019." 
+       license="Image created by author Kira Clingen, 2019. No permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/LivingTree_03.jpg?raw=true">
+
+ 
+ ### Acknowledgments
+ 
+ The funding for this project was generously provided by the Harvard University Graduate School of Design [Penny White Project Fund] (https://www.gsd.harvard.edu/landscape-architecture/fellowships-prizes-and-travel-programs/penny-white-project-fund/) and the Harvard University Asia Center Summer Grant. The authors spent one month in Japan in 2019 studying the species. The work was internally advised by [Sergio Lopez Pineiro] (https://holesofmatter.com/), Lecturer at the Harvard University Graduate School of Design, and advised by Dr. Keiko Kuroda, Professor Emeritus at Kobe University. 
+ 
+ <param ve-image url="crypto-sitevisit.jpg"
+       label="The site visits and route the authors followed during their trip in 2019. Image by Kira Clingen, 2019." 
+       license="Image created by author Kira Clingen, 2019. No permissions needed." 
+         
        
 # References
 
