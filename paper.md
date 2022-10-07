@@ -204,7 +204,7 @@ Cryptomeria plantations also pose a significant risk for avalanches and soil sli
 
 Transitioning to more diverse forestry species and practices is a lengthy process. In order for the eighty species of deciduous hardwood trees that grow in Japan to take root on plantations that have been planted in conifer monocultures, the seeds must blow in and have adequate sunlight to establish. Areas that have been completely cleared for Cryptomeria plantations resist diversification, as there are no local sources of seeds.[^36] Even on abandoned plantation sites, regenerating cedars compete with spontaneously growing species, making it difficult for new woody plants to establish.[^37] In order to increase the number of forest species, the entire landscape of Japan, not just the individual plantations, need to be managed and diversified.   
 
-<param ve-image- "tree-shadows.jpg"
+<param ve-image url="tree-shadows.jpg"
        label= "Trees are planted in tight grids on plantations. Understory species receive extremely limited sunlight for two to four hours each day. This digital shadow study shows the intense shade cast in monoculture Cryptomeria plantations. Image by authors, 2019."
        license="Image by authors, no permissions needed.">
 
@@ -223,9 +223,9 @@ Areas where Cryptomeria trees are growing will likely remain planted with conife
 
 ### Pollen Nation  
 
-The risk of pollinosis—a reaction to the pollen released every spring as Cryptomerias begin to breed—has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring relying on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what becomes the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops employ Cryptomeria canopies to collect pollen, before it falls onto roadways where tires churn it up, creating a loop of resuspending pollen after it falls to the ground.[^39] 
+The risk of pollinosis—a reaction to the pollen released every spring as _Cryptomeria_ begins to breed — has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring relying on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what becomes the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops employ _Cryptomeria_ canopies to collect pollen, before it falls onto roadways where tires churn it up, creating a loop of resuspending pollen after it falls to the ground.[^39] 
 
-<param ve-image="crypto-pollen2.JPG"
+<param ve-image url="crypto-pollen2.JPG"
        label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, "Vegetated history of Japan since last glacial period based on palynological data," Japanese Journal of Hitsorical Botany 25 (2016): 1-11." 
        license="Image by authors, no permissions needed.">
    
