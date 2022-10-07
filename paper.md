@@ -188,7 +188,7 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
 
 <param ve-image url="crypto-timbermap.JPG"
        region="199,-94,599,472"
-       label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressacae. Map adapted by Kira Clingen from Masaki et al., "Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives," Reforesta 3 (2017): 125-142 and  Japan Forestry Agency, State of Japan's Forest and FOrest Management, Tokyo: Japanese Forestry Agency, 2009."  
+       label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressacae. Map adapted by Kira Clingen from Masaki et al., Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives, Reforesta 3 (2017): 125-142 and  Japan Forestry Agency, State of Japan's Forest and FOrest Management, Tokyo: Japanese Forestry Agency, 2009."  
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
@@ -200,7 +200,7 @@ Cryptomeria plantations also pose a significant risk for avalanches and soil sli
 
 <param ve-image url="crypto-pollenmap.JPG"
        region="304,-83,535,420"
-       label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These aresa are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., "Mapping of Japanese cedar forests vulnerable to global warming in Japan," Global Environmental Research 10 (2006): 181-188." 
+       label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These aresa are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., Mapping of Japanese cedar forests vulnerable to global warming in Japan, Global Environmental Research 10 (2006): 181-188." 
        license="Image created by author, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
 
@@ -238,7 +238,7 @@ The risk of pollinosis—a reaction to the pollen released every spring as _Cryp
 
 <param ve-image url="crypto-pollen2.JPG"
        region="146,-104,663,522"
-       label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, "Vegetated history of Japan since last glacial period based on palynological data," Japanese Journal of Hitsorical Botany 25 (2016): 1-11." 
+       label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, Vegetated history of Japan since last glacial period based on palynological data, Japanese Journal of Hitsorical Botany 25 (2016): 1-11." 
        license="Image by authors, no permissions needed.">
    
 
