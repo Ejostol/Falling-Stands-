@@ -40,12 +40,12 @@ _Cryptomeria japonica_ is a dioecious tree and the only species in the genus Cry
 <param ve-image url="crypto-sacred.jpg"
        label="Hagurosan no Jiji Sugi wrapped in shimenawa near Showai, Japan. Image by さかおり, 2022." 
        license="public domain" 
-       source="https://commons.wikimedia.org/wiki/File:Hagurosan_no_Jiji_Sugi_January_2022_D.jpg"
+       source="https://commons.wikimedia.org/wiki/File:Hagurosan_no_Jiji_Sugi_January_2022_D.jpg">
 
 <param ve-image url="crypto-pyramid.jpg"
        label="The distinctly pyramidal form of a single Cryptomeria tree growing Bathumi, Georgia. Image by Lazaregagnidze, 2011." 
        license="public domain"
-       source="https://upload.wikimedia.org/wikipedia/commons/d/db/Cryptomeria_japonica_var_piramidalis_Japanese_Cedar_%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%A0%E1%83%98%E1%83%9E%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90.JPG"
+       source="https://upload.wikimedia.org/wikipedia/commons/d/db/Cryptomeria_japonica_var_piramidalis_Japanese_Cedar_%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%A0%E1%83%98%E1%83%9E%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90.JPG">
       
 
 ### Historical and Cultural Landscapes      
@@ -62,7 +62,6 @@ _Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. O
 <param ve-image region="316,0,689,523"
        label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria. The set of 20 scrolls were produced by the Fujiwara clan and completed in 1309." 
        license="public domain" 
-       region= "-18,-254,3885,3059"
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
        
 
@@ -97,6 +96,7 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
 <param ve-image url= "crypto-avenue.jpg"
        label="The Cryptomeria Avenue in Nikko, Japan. Published by H.C. White Co., 1903, held by the Library of Congress Prints Division." 
        license="public domain. Property of US government, no license required." 
+       region="-36,-176,1097,882"
        source="https://www.loc.gov/item/2020634053/">
 
 ### A View from Yakushima Island 
@@ -142,6 +142,10 @@ Following the World War II period, the Japanese government instigated a series o
 
 In 1964, the Forestry Basic Act was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast.[^22] The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets.[^23] These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber.[^24] 
 
+<param ve-image url="crypto-size.jpg"
+       label="The size of tree trunks determines the types and sizes of lumber that can be milled. Image by authors, 2019." 
+       license="Image by authors, no permissions needed">
+
 <param ve-image fit="contain" 
        license= "Image by authors, no permissions required."
        label="Cryptomeria cut into standard timber sizes to be exported. Image by author, 2019." 
@@ -160,7 +164,7 @@ In the 1980s, the value of hardwood tree species such as _Cryptomeria_ crashed, 
 While the economic promises came up short, the idea of restoring the green archipelago seemingly was met. Japan’s timber market came to rely on pollution exports of less wealthy countries while maintaining their national forests. But the manufactured forests host a different environmental issue, under-cutting and over-forestation. Conversations around forestry’s lack of financial success has been framed as a personal failing, or blames the undercutting of the international market, largely ignoring the role of national reforestation efforts after World War II.[^30] 
 
 <param ve-image 
-       label="Rough and sanded Cryptomeria poles. Image by authors, 2019." 
+       label="Cryptomeria trunks are covered in plastic while they are growing to produce smooth specialty timber products that are then polished. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
@@ -175,7 +179,7 @@ Today, because of the late twentieth-century afforestation policy, Japan is the 
 
 Monoculture plantings have changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have a high level of living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi.[^32][^33] Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists are studying tree thinning practices to determine the optimal way to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches.[^34] 
 
-<param ve-image url="crypto-timbermap.jpg"
+<param ve-image url="crypto-timbermap.JPG"
        label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressacae. Map adapted by Kira Clingen from Masaki et al., "Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives," Reforesta 3 (2017): 125-142 and  Japan Forestry Agency, State of Japan's Forest and FOrest Management, Tokyo: Japanese Forestry Agency, 2009."  
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
@@ -187,7 +191,7 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
        
 Cryptomeria plantations also pose a significant risk for avalanches and soil slides. The trees have horizontal, shallow roots, and are therefore in danger of falling and stripping away anything else in their path. Such risks are particularly high during heavy rainfall or typhoons, which are common across the archipelago and are projected to increase in intensity and frequency due to climate change.[^35]
 
-<param ve-image url="crypto-pollenmap.jpg"
+<param ve-image url="crypto-pollenmap.JPG"
        label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These aresa are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., "Mapping of Japanese cedar forests vulnerable to global warming in Japan," Global Environmental Research 10 (2006): 181-188." 
        license="Image created by author, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
