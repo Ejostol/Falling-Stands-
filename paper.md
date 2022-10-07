@@ -4,6 +4,7 @@
       title="Cryptomeria japonica: Climate Change, Cultivation, and Culture"
        author="Kira Clingen and Edyth Jostol"
        banner="crypto_detail0.jpg"
+       rotate="90"
        source="https://upload.wikimedia.org/wikipedia/commons/f/f9/Cryptomeria_japonica_%27Cristata%27_Szydlica_japo%C5%84ska_2019-06-09_04.jpg"
        layout="vertical">
 
