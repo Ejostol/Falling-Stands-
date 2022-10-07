@@ -149,10 +149,11 @@ In 1964, the Forestry Basic Act was passed, which effectively established a nati
 
 The reforestation campaign focused on conifer plantings, with subsidies and compulsion, so following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970, with this number increasing steadily.[^25] Since the 1970s, 16 million new cedar trees have been planted annually.[^26][^27]  
 
-<param ve-image fit="contain" 
+<param ve-image rotate="90" 
        label="Wood shaving from timber processing at a Japanese sawmill. Image by authors, 2019."
        license="Image by authors, no permissions needed." 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true">
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true"
+       fit="contain">
 
 In the 1980s, the value of hardwood tree species such as _Cryptomeria_ crashed, as the demand for wood products lessened. The intention behind the reforestation plan was to build upland economies, but the increase in forestry support was too late and inflexible. By the time planted trees grew to size the post wartime demand had started to wane and Japan had begun to import international resources.[^28] Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for _Cryptomeria_ plantations. Tropical timber from islands including Borneo, which was cheaper to harvest and of a higher quality, entered the market. This new international competition crippled the Japanese market. The promise of a thriving rural economy based around harvesting forest products and efficiently distributing them to urban centers died over the course of a single decade, leaving millions of acres of planted forests with little economic value. Furthermore, after the Great Hanshin earthquake devastated large areas of Japan in 1995, the government created strict regulations around the types of timber that it deemed suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree.[^29] 
 
@@ -180,7 +181,7 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
 <param ve-image rotate="90"
-       label="Coppiced Cryptomeria trees in " 
+       label="Cryptomeria trees in Nakagawa are pruned using the daisugi technique. Daisugi is similar to European coppicing, and produces slender stems that are dense and flexible. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
        
@@ -191,10 +192,9 @@ Cryptomeria plantations also pose a significant risk for avalanches and soil sli
        license="Image created by author, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
 
-
 <param ve-image
-       label="A landslide caused by a windstorm at a Cryptomeria plantation, destabilizing the hillside" 
-       license="public domain" 
+       label="A landslide caused by a windstorm at a Cryptomeria plantation. The soil around the shallow roots of the trees is easily destabilized during periods of high winds and heavy rain. Image by authors, 2019." 
+       license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
 
 Transitioning to more diverse forestry species and practices is a lengthy process. In order for the eighty species of deciduous hardwood trees that grow in Japan to take root on plantations that have been planted in conifer monocultures, the seeds must blow in and have adequate sunlight to establish. Areas that have been completely cleared for Cryptomeria plantations resist diversification, as there are no local sources of seeds.[^36] Even on abandoned plantation sites, regenerating cedars compete with spontaneously growing species, making it difficult for new woody plants to establish.[^37] In order to increase the number of forest species, the entire landscape of Japan, not just the individual plantations, need to be managed and diversified.   
@@ -214,7 +214,7 @@ Areas where Cryptomeria trees are growing will likely remain planted with conife
 
 The risk of pollinosis—a reaction to the pollen released every spring as Cryptomerias begin to breed—has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring relying on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what becomes the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops employ Cryptomeria canopies to collect pollen, before it falls onto roadways where tires churn it up, creating a loop of resuspending pollen after it falls to the ground.[^39] 
 
-<param ve-image "crypto-pollen2.jpg"
+<param ve-image "crypto-pollen2.JPG"
        label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, "Vegetated history of Japan since last glacial period based on palynological data," Japanese Jouranl of Hitsorical Botany 25 (2016): 1-11." 
        license="Image by authors, no permissions needed.">
       
@@ -240,7 +240,7 @@ The _Cryptomeria_ afforestation project shows the dangers of treating rural fore
  
  The funding for this project was generously provided by the Harvard University Graduate School of Design [Penny White Project Fund] (https://www.gsd.harvard.edu/landscape-architecture/fellowships-prizes-and-travel-programs/penny-white-project-fund/) and the Harvard University Asia Center Summer Grant. The authors spent one month in Japan in 2019 studying the species. The work was internally advised by [Sergio Lopez Pineiro] (https://holesofmatter.com/), Lecturer at the Harvard University Graduate School of Design, and advised by Dr. Keiko Kuroda, Professor Emeritus at Kobe University. 
  
- <param ve-image url="crypto-sitevisit.jpg"
+ <param ve-image url="crypto-sitevisit.JPG"
        label="The site visits and route the authors followed during their trip in 2019. Image by Kira Clingen, 2019." 
        license="Image created by author Kira Clingen, 2019. No permissions needed.">
          
