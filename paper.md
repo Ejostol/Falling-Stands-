@@ -125,7 +125,7 @@ This forest composition is most similar to Japan’s prehistoric forests. Until 
 <param ve-image url="crypto-community.jpg"
        label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by Edyth Jostol, 2019." 
        license="Image created by Kira Clingen and Edyth Jostol, no permission needed." 
-       region= "-849,-58,4250,3418">
+       region= "-20,-291,2591,2084">
 
 The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II (1941-1945) and the Korean War (1950-1953). Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested.[^19] In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
 
