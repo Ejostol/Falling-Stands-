@@ -261,7 +261,7 @@ The _Cryptomeria_ afforestation project shows the dangers of treating rural fore
  
  ### Acknowledgments
  
- The funding for this project was generously provided by the Harvard University Graduate School of Design [Penny White Project Fund] (https://www.gsd.harvard.edu/landscape-architecture/fellowships-prizes-and-travel-programs/penny-white-project-fund/) and the Harvard University Asia Center Summer Grant. The authors spent one month in Japan in 2019 studying the species. The work was internally advised by [Sergio Lopez Pineiro] (https://holesofmatter.com/), Lecturer at the Harvard University Graduate School of Design, and advised by Dr. Keiko Kuroda, Professor Emeritus at Kobe University. 
+ The funding for this project was generously provided by the Harvard University Graduate School of Design [Penny White Project Fund](https://www.gsd.harvard.edu/landscape-architecture/fellowships-prizes-and-travel-programs/penny-white-project-fund/) and the Harvard University Asia Center Summer Grant. The authors spent one month in Japan in 2019 studying the species. The work was internally advised by [Sergio Lopez Pineiro](https://holesofmatter.com/), Lecturer at the Harvard University Graduate School of Design, and advised by Dr. Keiko Kuroda, Professor Emeritus at Kobe University. 
  
  <param ve-image url="crypto-sitevisit.JPG"
        label="The site visits and route the authors followed during their trip in 2019. Image by Kira Clingen, 2019." 
