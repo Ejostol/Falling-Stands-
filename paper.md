@@ -111,6 +111,10 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0713.JPG?raw=true">
        
+<param ve-image url="CedarBridge_05.jpg"
+       label="A photogrammetry composite image of 154 images of a footbridge on Yakushima Island constructed from Cryptomeria. Yakushima National Park protects old growth Japanese cedars, and uses local timber to build trail infrastructure for visitors to see the sacred Jomon-Sugi tree. Image by Kira Clingen, 2019." 
+       license="Image created by author Kira Clingen, 2019. No permissions needed.">
+       
  <param ve-image  url="yakushima-map.JPG"
        label="A map of ferry routes and trees on Yakushima Island. Image by authors, 2019." 
        license="Image by authors, no permissions needed."> 
@@ -229,9 +233,7 @@ Areas where Cryptomeria trees are growing will likely remain planted with conife
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
        
-<param ve-image url="CedarBridge_05.jpg"
-       label="A photogrammetry composite image of 154 images of a footbridge on Yakushima Island constructed from Cryptomeria. Yakushima National Park protects old growth Japanese cedars, and uses local timber to build trail infrastructure for visitors to see the sacred Jomon-Sugi tree. Image by Kira Clingen, 2019." 
-       license="Image created by author Kira Clingen, 2019. No permissions needed.">
+
 
 
 ### Pollen Nation  
