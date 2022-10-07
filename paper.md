@@ -122,18 +122,17 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
 
 This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago northern Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. _Cryptomeria_ only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in.[^17] On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time.[^18]  
 
-<param ve-image url="sugi1-01.jpg"
-       label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by the authors, 2019." 
+<param ve-image url="crypto-community.jpg"
+       label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by Edyth Jostol, 2019." 
        license="Image created by Kira Clingen and Edyth Jostol, no permission needed." 
-       region= "-87,-599,3475,3000">
+       region= "-849,-58,4250,3418">
 
 The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II (1941-1945) and the Korean War (1950-1953). Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested.[^19] In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
 
-<param ve-image 
+<param ve-image url="sugi1-01.jpg"
        label="Cryptomeria in Yakushima Island’s primary forest are part of a multi-species plant community with a deciduous overstory, epiphytes, and an evergreen broadleaf understory. This collage of four images portrays a single tree from its roots to canopy. Image by authors, 2019." 
-       region="-129,75,928,747"
-       license="Image by authors, no permissions needed." 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Anno%202_2.PNG?raw=true">
+       region= "-849,-58,4250,3418""
+       license="Image by authors, no permissions needed.">
 
 ### Crypto Currency: from Specimen Species to Monoculture Mascot 
 
