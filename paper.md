@@ -45,6 +45,7 @@ _Cryptomeria japonica_ is a dioecious tree and the only species in the genus Cry
 <param ve-image url="crypto-pyramid.jpg"
        label="The distinctly pyramidal form of a single Cryptomeria tree growing Bathumi, Georgia. Image by Lazaregagnidze, 2011." 
        license="public domain"
+       region="-949,186,4747,3818"
        source="https://upload.wikimedia.org/wikipedia/commons/d/db/Cryptomeria_japonica_var_piramidalis_Japanese_Cedar_%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%A0%E1%83%98%E1%83%9E%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90.JPG">
       
 
@@ -143,6 +144,7 @@ Following the World War II period, the Japanese government instigated a series o
 In 1964, the Forestry Basic Act was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast.[^22] The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets.[^23] These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber.[^24] 
 
 <param ve-image url="crypto-size.jpg"
+       region="2,2,1181,950"
        label="The size of tree trunks determines the types and sizes of lumber that can be milled. Image by authors, 2019." 
        license="Image by authors, no permissions needed">
 
@@ -180,18 +182,17 @@ Today, because of the late twentieth-century afforestation policy, Japan is the 
 Monoculture plantings have changed every layer of the Japanese forest. The regimented distribution of trees at regular intervals destroys layers of understory vegetation that provides habitats for a variety of flora and fauna. On managed plots, foresters remove woody debris, leaving tightly packed vertical trunks. This careful spacing means that most plantations have a high level of living biomass that sequesters carbon. As plantations are abandoned, branches and trunks rot on the forest floor, releasing carbon that is taken up by fungi.[^32][^33] Over time, such plantations may become carbon emitters instead of carbon sinks. Scientists are studying tree thinning practices to determine the optimal way to maintain beneficial microfungi and introduce a spontaneous understory that colonizes under the plantation branches.[^34] 
 
 <param ve-image url="crypto-timbermap.JPG"
+       region="199,-94,599,472"
        label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressacae. Map adapted by Kira Clingen from Masaki et al., "Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives," Reforesta 3 (2017): 125-142 and  Japan Forestry Agency, State of Japan's Forest and FOrest Management, Tokyo: Japanese Forestry Agency, 2009."  
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
-<param ve-image rotate="90"
-       label="Cryptomeria trees in Nakagawa are pruned using the daisugi technique. Daisugi is similar to European coppicing, and produces slender stems that are dense and flexible. Image by authors, 2019." 
-       license="Image by authors, no permissions needed." 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
+
        
 Cryptomeria plantations also pose a significant risk for avalanches and soil slides. The trees have horizontal, shallow roots, and are therefore in danger of falling and stripping away anything else in their path. Such risks are particularly high during heavy rainfall or typhoons, which are common across the archipelago and are projected to increase in intensity and frequency due to climate change.[^35]
 
 <param ve-image url="crypto-pollenmap.JPG"
+       region="304,-83,535,420"
        label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These aresa are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., "Mapping of Japanese cedar forests vulnerable to global warming in Japan," Global Environmental Research 10 (2006): 181-188." 
        license="Image created by author, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
@@ -203,25 +204,31 @@ Cryptomeria plantations also pose a significant risk for avalanches and soil sli
 
 Transitioning to more diverse forestry species and practices is a lengthy process. In order for the eighty species of deciduous hardwood trees that grow in Japan to take root on plantations that have been planted in conifer monocultures, the seeds must blow in and have adequate sunlight to establish. Areas that have been completely cleared for Cryptomeria plantations resist diversification, as there are no local sources of seeds.[^36] Even on abandoned plantation sites, regenerating cedars compete with spontaneously growing species, making it difficult for new woody plants to establish.[^37] In order to increase the number of forest species, the entire landscape of Japan, not just the individual plantations, need to be managed and diversified.   
 
+<param ve-image- "tree-shadows.jpg"
+       label= "Trees are planted in tight grids on plantations. Understory species receive extremely limited sunlight for two to four hours each day. This digital shadow study shows the intense shade cast in monoculture Cryptomeria plantations. Image by authors, 2019."
+       license="Image by authors, no permissions needed.">
+
 <param ve-image
-       label="A partially harvested Cryptomeria plot next to a heavily shaded grove" 
-       license="public domain" 
+       label="A Cryptomeria plot that has been partially harvested. Due to falling timber prices, many stands are abandoned and left to decay. Image by authors, 2019." 
+       license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0117.JPG?raw=true">
 
 Areas where Cryptomeria trees are growing will likely remain planted with conifers for hundreds of years, while areas where they have been cut down will see new species emerge on the forest floor, creating new types of plant communities. New forms of human stewardship have begun to gain popularity in response to both monoculture plantations and an increasingly urbanized population. Starting in the late 1990s satoyama, the restoration of traditional agrarian landscapes started to gain traction, fueled by nostalgia and increased interest in biodiversity. Access to rural areas for city dwellers was increased through volunteer programs, which aim to help clear land, plant native species, create habitat for foraging sought after Matsutake mushrooms, and form connections with the landscape. The Nakagawa Revitalization Project is one example of this. Operated by retired professor Yoshiya Iwai, the project includes a community library, hosts events and home-stays and is expanding to include a hobbyist woodworking facility.[^38] Once again, the species composition of Japan will be transformed as the Japanese landscape is reshaped by human interaction. This new type of forest will require new management practices and a different approach: learning from connections within diverse ecosystems instead of merely dealing with plantations and spontaneously growing forest.
 
-<param ve-image
-       license="public domain" 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0201%20(1).JPG?raw=true">
+<param ve-image rotate="90"
+       label="Cryptomeria trees near the Nakagawa Revitalization Project are pruned using the daisugi technique. Daisugi is similar to European coppicing, and produces slender stems that are dense and flexible. Image by authors, 2019." 
+       license="Image by authors, no permissions needed." 
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
+
 
 ### Pollen Nation  
 
 The risk of pollinosis—a reaction to the pollen released every spring as Cryptomerias begin to breed—has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring relying on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what becomes the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops employ Cryptomeria canopies to collect pollen, before it falls onto roadways where tires churn it up, creating a loop of resuspending pollen after it falls to the ground.[^39] 
 
-<param ve-image "crypto-pollen2.JPG"
-       label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, "Vegetated history of Japan since last glacial period based on palynological data," Japanese Jouranl of Hitsorical Botany 25 (2016): 1-11." 
+<param ve-image="crypto-pollen2.JPG"
+       label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, "Vegetated history of Japan since last glacial period based on palynological data," Japanese Journal of Hitsorical Botany 25 (2016): 1-11." 
        license="Image by authors, no permissions needed.">
-      
+   
 
 The Japanese government has worked to genetically alter the species, which would allow the rural forestry industry to continue in an era of increasing urbanization in Japan. It started a campaign to produce pollen without the allergens _Cry j1_ and _Cry j2_, which create symptoms of pollinosis. Research agencies across the archipelago breed these hypo-allergenic trees for future plantations. Since 2007, 130 different pollen-free varieties have been produced. The cost of these trees makes them a challenge to plant as an alternative to the non-modified Cryptomeria trees. A program of subsidies from the Japanese government, however, attempts to lessen the burden on foresters.[^40] 
 
