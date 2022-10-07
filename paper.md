@@ -110,7 +110,7 @@ During his travels in Japan in the late nineteenth century, Charles Sprague Sarg
        
  <param ve-image  url="yakushima-map.JPG"
        label="A map of ferry routes and trees on Yakushima Island. Image by authors, 2019." 
-       license="Image by authors, no permissions needed." 
+       license="Image by authors, no permissions needed."> 
         
 
 This forest composition is most similar to Japan’s prehistoric forests. Until roughly 6,000 years ago northern Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. _Cryptomeria_ only became a prominent species across Japan 4,000 years ago, even before the Jōmon period in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives in.[^17] On Yakushima Island, sūgi were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest was designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time.[^18]  
@@ -119,7 +119,7 @@ This forest composition is most similar to Japan’s prehistoric forests. Until 
        label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by the authors, 2019." 
        license="Image created by Kira Clingen and Edyth Jostol, no permission needed." 
        region= "-87,-599,3475,3000"
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Species.png?raw=true"
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/Species.png?raw=true">
 
 The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II (1941-1945) and the Korean War (1950-1953). Across the Japanese archipelago, from Yakushima to Hokkaido, citizens burned timber as an energy supply during times of shortage. The old deciduous and conifer forests were burned as biomass to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, the landscape of Japan was radically transformed. It was sparsely forested.[^19] In 1993 Yakushima was added to the World Heritage list for its ongoing geological processes, biological evolution, natural beauty and significant habitat. The interior primary forest is still preserved, and some plantations have been abandoned, while others are still logged to this day. 
 
@@ -137,7 +137,7 @@ Following the World War II period, the Japanese government instigated a series o
        label="Sawmill workers chopping Cryptomeria into lumber. Image by B.L. Singley, 1905." 
        license="public domain. Property of the US Government, no permissions needed" 
        region="65,-117,960,772"
-       source="https://www.loc.gov/item/2020637700/"
+       source="https://www.loc.gov/item/2020637700/">
 
 
 In 1964, the Forestry Basic Act was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast.[^22] The Act was aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber, it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. This legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or falling international markets.[^23] These subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber.[^24] 
@@ -152,7 +152,7 @@ The reforestation campaign focused on conifer plantings, with subsidies and comp
 <param ve-image fit="contain" 
        label="Wood shaving from timber processing at a Japanese sawmill. Image by authors, 2019."
        license="Image by authors, no permissions needed." 
-       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true"
+       url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0057%20(1).JPG?raw=true">
 
 In the 1980s, the value of hardwood tree species such as _Cryptomeria_ crashed, as the demand for wood products lessened. The intention behind the reforestation plan was to build upland economies, but the increase in forestry support was too late and inflexible. By the time planted trees grew to size the post wartime demand had started to wane and Japan had begun to import international resources.[^28] Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for _Cryptomeria_ plantations. Tropical timber from islands including Borneo, which was cheaper to harvest and of a higher quality, entered the market. This new international competition crippled the Japanese market. The promise of a thriving rural economy based around harvesting forest products and efficiently distributing them to urban centers died over the course of a single decade, leaving millions of acres of planted forests with little economic value. Furthermore, after the Great Hanshin earthquake devastated large areas of Japan in 1995, the government created strict regulations around the types of timber that it deemed suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree.[^29] 
 
@@ -181,10 +181,10 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
 
 <param ve-image rotate="90"
        label="Coppiced Cryptomeria trees in " 
-       license="public domain" 
+       license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
        
-Cryptomeria plantations also pose a significant risk for avalanches and soil slides. The trees have horizontal, shallow roots, and are therefore in danger of falling and stripping away anything else in their path. Such risks are particularly high during heavy rainfall or typhoons, which are common across the archipelago and are projected to increase in intensity and frequency due to climate change[^35].
+Cryptomeria plantations also pose a significant risk for avalanches and soil slides. The trees have horizontal, shallow roots, and are therefore in danger of falling and stripping away anything else in their path. Such risks are particularly high during heavy rainfall or typhoons, which are common across the archipelago and are projected to increase in intensity and frequency due to climate change.[^35]
 
 <param ve-image url="crypto-pollenmap.jpg"
        label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These aresa are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., "Mapping of Japanese cedar forests vulnerable to global warming in Japan," Global Environmental Research 10 (2006): 181-188." 
@@ -197,7 +197,7 @@ Cryptomeria plantations also pose a significant risk for avalanches and soil sli
        license="public domain" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
 
-Transitioning to more diverse forestry species and practices is a lengthy process. In order for the eighty species of deciduous hardwood trees that grow in Japan to take root on plantations that have been planted in conifer monocultures, the seeds must blow in and have adequate sunlight to establish. Areas that have been completely cleared for Cryptomeria plantations resist diversification, as there are no local sources of seeds[^36]. Even on abandoned plantation sites, regenerating cedars compete with spontaneously growing species, making it difficult for new woody plants to establish[^37]. In order to increase the number of forest species, the entire landscape of Japan, not just the individual plantations, need to be managed and diversified.   
+Transitioning to more diverse forestry species and practices is a lengthy process. In order for the eighty species of deciduous hardwood trees that grow in Japan to take root on plantations that have been planted in conifer monocultures, the seeds must blow in and have adequate sunlight to establish. Areas that have been completely cleared for Cryptomeria plantations resist diversification, as there are no local sources of seeds.[^36] Even on abandoned plantation sites, regenerating cedars compete with spontaneously growing species, making it difficult for new woody plants to establish.[^37] In order to increase the number of forest species, the entire landscape of Japan, not just the individual plantations, need to be managed and diversified.   
 
 <param ve-image
        label="A partially harvested Cryptomeria plot next to a heavily shaded grove" 
@@ -212,11 +212,11 @@ Areas where Cryptomeria trees are growing will likely remain planted with conife
 
 ### Pollen Nation  
 
-The risk of pollinosis—a reaction to the pollen released every spring as Cryptomerias begin to breed—has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring relying on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what becomes the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops employ Cryptomeria canopies to collect pollen, before it falls onto roadways where tires churn it up, creating a loop of resuspending pollen after it falls to the ground[^39]. 
+The risk of pollinosis—a reaction to the pollen released every spring as Cryptomerias begin to breed—has changed the composition of Japanese plantations. Female trees release up to 5 pounds of pollen each spring relying on pollinators and the wind to spread their seed. Across the country, 33 million people are affected by pollinosis in what becomes the nation’s largest public health crisis each year. Japan’s health and forestry agencies have developed a comprehensive public health campaign to limit exposure. Monitors throughout major cities and the countryside count the amount of pollen in the air, and warnings to wear masks and avoid going outside are issued in urban areas by government agencies, universities, and public health clinics working together. In urban areas such as Tokyo, where tree plantations exist directly outside the city, containing pollinosis is challenging. High rooftops employ Cryptomeria canopies to collect pollen, before it falls onto roadways where tires churn it up, creating a loop of resuspending pollen after it falls to the ground.[^39] 
 
 <param ve-image "crypto-pollen2.jpg"
        label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, "Vegetated history of Japan since last glacial period based on palynological data," Japanese Jouranl of Hitsorical Botany 25 (2016): 1-11." 
-       license="Image by authors, no permissions needed." 
+       license="Image by authors, no permissions needed.">
       
 
 The Japanese government has worked to genetically alter the species, which would allow the rural forestry industry to continue in an era of increasing urbanization in Japan. It started a campaign to produce pollen without the allergens _Cry j1_ and _Cry j2_, which create symptoms of pollinosis. Research agencies across the archipelago breed these hypo-allergenic trees for future plantations. Since 2007, 130 different pollen-free varieties have been produced. The cost of these trees makes them a challenge to plant as an alternative to the non-modified Cryptomeria trees. A program of subsidies from the Japanese government, however, attempts to lessen the burden on foresters.[^40] 
@@ -242,7 +242,7 @@ The _Cryptomeria_ afforestation project shows the dangers of treating rural fore
  
  <param ve-image url="crypto-sitevisit.jpg"
        label="The site visits and route the authors followed during their trip in 2019. Image by Kira Clingen, 2019." 
-       license="Image created by author Kira Clingen, 2019. No permissions needed." 
+       license="Image created by author Kira Clingen, 2019. No permissions needed.">
          
        
 # References
