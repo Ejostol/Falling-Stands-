@@ -278,35 +278,35 @@ The *sugi* afforestation project shows the dangers of treating rural forest area
 [^6]: Robert Borgen and Marian Ury, “Readable Japanese Mythology: Selections from Nihon Shoki and Kojiki,” *The Journal of the Association of Teachers of Japanese* vol. 24, no. 1 (1990): 61–97. 
 [^7]: [Isotakeru](https://www.japanese-wiki-corpus.org/Shinto/Isotakeru)
 [^8]: Bruce Darling, *Monumenta Nipponica* vol. 46, no. 2 (1991): 263–266. www.jstor.org/stable/2385409. Accessed 1 Sept. 2021. 
-[^9]: RISD Museum. “Hokusai’s Mount Fuji: A Selection from the Series Thirty-Six Views of Mount Fuji.” RISD Museum. June 14-August 17, 1991. 
-[^10]: Totman, Conrad. The Green Archipelago: Forestry in Pre-Industrial Japan. Berkeley: University of California Press, 1989. 
-[^11]: Ishii, H.T., Manabe, T., Ito, K. et al. Integrating ecological and cultural values toward conservation and utilization of shrine/temple forests as urban green space in Japanese cities. Landscape Ecol Eng 6, 307–315 (2010). 
-[^12]:  Reynolds, Jonathan M. “Ise Shrine and a Modernist Construction of Japanese Tradition.” The Art Bulletin 83, no. 2 (2001): 316–41. https://doi.org/10.2307/3177211.
-[^13]:Sargent, Charles Sprague. Forest Flora of Japan: Notes on the Forest Flora of Japan. New York: Houghton, Mifflin and Company, 1894.
-[^14]: Miyazaki, Hayao. The Princess Mononoke: The Art and Making of Japan’s Most Popular Film of All Time. Translated by Mark Schilling. New York: Hyperion, 1999. 
-[^15]: Yoshida, S. and Imanaga M. “The stand structure and growth of sugi (Cryptomeria japonica D. Don) in natural forests on Yakushima. Journal of the Japanese Forestry Society 72 (1990): 131-138; Wilson, Edward O. The Conifers and Taxads of Japan. Cambridge: Cambridge University press, 1916.
-[^16]: Wilson, Edward O. The Conifers and Taxads of Japan. Cambridge: Cambridge University press, 1916.
-[^17]: Tsugi, Sei-Ichiro. “Paleoenvironmental Reconstruction in the Dissected Valley in Prehistory: Holocene Paleoenvironment at the Ayakama Site in Kawaguchi, Central Kanto Plain, Japan.” The Quaternary Research (Daiyonki-Kenkyu) 27, no. 4 (1989): 331-356.
-[^18]: Dairinkusho, Kagoshima. Management plan for Yakushima National Forests of Northern, Eastern, and Southern project segments. Kagoshima, 1923.
-[^19]: Iwai, Yoshiya. Forestry and the Forest Industry in Japan. Vancouver: University of British Columbia Press, 2007.
-[^20]: Iwai, Yoshiya. Forestry and the Forest Industry in Japan. Vancouver: University of British Columbia Press, 2007.
-[^21]: Knight, John. “A Tale of Two Forests: Reforestation Discourse in Japan and Beyond.” The Journal of the Royal Anthropological Institute 3, no. 4 (1997): 711–30. https://doi.org/10.2307/3034035.
-[^22]:Sterngold, James. “Japan’s Cedar Forests Are a Man-Made Disaster.” The New York Times. 1995.
-[^23]: Japan Forestry Agency. Forestry and Forestry Basic Act. Tokyo. 1964.
-[^24]: Tajima, D. Forestry in Japan: Solutions for the Future. Tokyo: World Forestry Institute, 2010. 
-[^25]: Knight, John. “A Tale of Two Forests: Reforestation Discourse in Japan and Beyond.” The Journal of the Royal Anthropological Institute 3, no. 4 (1997): 711–30. https://doi.org/10.2307/3034035.
-[^26]: Japan Forestry Agency, Annual Report. 
-[^27]: Iwai, Yoshiya. Forestry and the Forest Industry in Japan. Vancouver: University of British Columbia Press, 2007.
-[^28]: Knight, John. “A Tale of Two Forests: Reforestation Discourse in Japan and Beyond.” The Journal of the Royal Anthropological Institute 3, no. 4 (1997): 711–30. https://doi.org/10.2307/3034035.
-[^29]: Tajima, D. Forestry in Japan: Solutions for the Future. Tokyo: World Forestry Institute, 2010. 
-[^30]: Knight, John. “A Tale of Two Forests: Reforestation Discourse in Japan and Beyond.” The Journal of the Royal Anthropological Institute 3, no. 4 (1997): 711–30. https://doi.org/10.2307/3034035. 
-[^31]: Iwai, Yoshiya. Forestry and the Forest Industry in Japan. Vancouver: University of British Columbia Press, 2007.
-[^32]: Takeuchi, I. “The growth of diameters and stand stem volumes in old man-made Sugi (Cryptomeria japonica) stands. Journal  of the Japanese Forest Society 87 (2005): 394-401; 
-[^33]: Yashiro et al.”Biometric-based estimation of net ecosystem production in a mature Japanese cedar (Cryptomeria japonica) plantation beneath a flux tower.” Journal of Plant Restoration 123 no. 4 ( 2010):463-472.
-[^34]: Lin, W.R. et al. “The impacts of thinning on the fruiting of saprophytic fungi in Cryptomeria japonica plantations in central Taiwan. Forest Ecology and Management 17 (2014). 
-[^35]: Tate, R.L. Soil Microbiology. New York: John Wiley and Sons, 1995. 
-[^36]: Igarashi and Masaki. “Species diversity of woody recruits within Japanese cedar (Cryptomeria japonica) plantations established on grasslands: the effects of site conditions and landscape.” Journal of Forest Research 3 (2018): 156-165.
-[^37]: Enoki et al. “Aboveground productivity of an unsuccessful 140 year old Cryptomeria japonica plantation in northern Kyushu, Japan.” Journal for Reforestation 16 (2011): 268-274.
-[^38]: Satsuka, Shiho. “The Satoyama Movement: Envisioning Multispecies Commons in Postindustrial Japan.” RCC Perspectives, no. 3 (2014): 87–94. http://www.jstor.org/stable/26241255.
-[^39]: Gong, X. et al. “ Size distribution of allergenic Cry j 2 released from airborne Cryptomeria japonica pollen grains during the pollen scattering seasons.” Aerobiologia 33 (2017):59-69. 
-[^40]: Japan Forestry Agency. The Ministry of agriculture, forestry and fisheries of Japan Annual report on trends of forest and forestry. Tokyo: Annual Report Group Policy Planning Division, Forestry Agency Ministry of Agriculture, Forestry and Fisheries, 2011. 
+[^9]: RISD Museum. “Hokusai’s Mount Fuji: A Selection from the Series Thirty-Six Views of Mount Fuji,” Providence, RI: RISD Museum. June 14-August 17, 1991.
+[^10]: Conrad Totman, *The Green Archipelago: Forestry in Pre-Industrial Japan* (Berkeley: University of California Press, 1989). 
+[^11]: H.T. Ishii, T. Manabe, K. Ito, et al. “Integrating ecological and cultural values toward conservation and utilization of shrine/temple forests as urban green space in Japanese cities,” *Landscape Ecol Eng* 6, (2010): 307–315. 
+[^12]: Jonathan M. Reynolds, “Ise Shrine and a Modernist Construction of Japanese Tradition,” *The Art Bulletin* 83, no. 2 (2001): 316–41. https://doi.org/10.2307/3177211.
+[^13]:Sargent, Charles Sprague, *Forest Flora of Japan: Notes on the Forest Flora of Japan* (New York: Houghton, Mifflin and Company, 1894).
+[^14]: Hayao Miyazaki, *The Princess Mononoke: The Art and Making of Japan’s Most Popular Film of All Time*. Translated by Mark Schilling (New York: Hyperion, 1999).
+[^15]: S. Yoshida and M. Imanaga, “The stand structure and growth of sugi (Cryptomeria japonica D. Don) in natural forests on Yakushima," *Journal of the Japanese Forestry Society* 72 (1990): 131-138; Edward O. Wilson, *The Conifers and Taxads of Japan* (Cambridge: Cambridge University Press, 1916).
+[^16]: Wilson.
+[^17]: Sei-Ichiro Tsugi, “Paleoenvironmental Reconstruction in the Dissected Valley in Prehistory: Holocene Paleoenvironment at the Ayakama Site in Kawaguchi, Central Kanto Plain, Japan,” *The Quaternary Research (Daiyonki-Kenkyu)* 27, no. 4 (1989): 331-356.
+[^18]: Kagoshima Dairinkusho, *Management Plan for Yakushima National Forests of Northern, Eastern, and Southern Project Segments* (Kagoshima, 1923.)
+[^19]: Yoshiya Iwai.
+[^20]: Yoshiya Iwai.
+[^21]: John Knight, “A Tale of Two Forests: Reforestation Discourse in Japan and Beyond,” *The Journal of the Royal Anthropological Institute* 3, no. 4 (1997): 711–30. https://doi.org/10.2307/3034035.
+[^22]: James Sterngold, “Japan’s Cedar Forests Are a Man-Made Disaster,” *The New York Times* (January 17, 1995):C/1.
+[^23]: Japan Forestry Agency. Forestry and Forestry Basic Act. Tokyo, 1964.
+[^24]: D. Tajima. *Forestry in Japan: Solutions for the Future* (Tokyo: World Forestry Institute, 2010).
+[^25]: John Knight.
+[^26]: Japan Forestry Agency, *Annual Report*. 
+[^27]: Yoshiya Iwai. 
+[^28]: John Knight.
+[^29]: D. Tajima.  
+[^30]: John Knight. 
+[^31]: Yoshiya Iwai.
+[^32]: I. Takeuchi, “The growth of diameters and stand stem volumes in old man-made Sugi (Cryptomeria japonica) stands," *Journal  of the Japanese Forest Society* 87 (2005): 394-401; 
+[^33]: Yashiro et al.”Biometric-based estimation of net ecosystem production in a mature Japanese cedar (Cryptomeria japonica) plantation beneath a flux tower,” *Journal of Plant Restoration* 123 no. 4 (2010):463-472.
+[^34]: W.R. Lin et al., “The impacts of thinning on the fruiting of saprophytic fungi in Cryptomeria japonica plantations in central Taiwan," *Forest Ecology and Management* 17 (2014). 
+[^35]: R.L. Tate, *Soil Microbiology* (New York: John Wiley and Sons, 1995). 
+[^36]: Igarashi and Masaki. “Species diversity of woody recruits within Japanese cedar (Cryptomeria japonica) plantations established on grasslands: the effects of site conditions and landscape,” *Journal of Forest Research* 3 (2018): 156-165.
+[^37]: Enoki et al., “Aboveground productivity of an unsuccessful 140 year old Cryptomeria japonica plantation in northern Kyushu, Japan,” *Journal for Reforestation* 16 (2011): 268-274.
+[^38]: Shiho Satsuka, “The Satoyama Movement: Envisioning Multispecies Commons in Postindustrial Japan,” *RCC Perspectives* no. 3 (2014): 87–94. http://www.jstor.org/stable/26241255.
+[^39]: X. Gong et al., “Size distribution of allergenic Cry j 2 released from airborne Cryptomeria japonica pollen grains during the pollen scattering seasons,” *Aerobiologia* 33 (2017):59-69. 
+[^40]: Japan Forestry Agency, Annual Report. 
