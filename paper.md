@@ -270,14 +270,14 @@ The *sugi* afforestation project shows the dangers of treating rural forest area
        
 # References
 
-[^1]: Japan Forestry Agency. The Ministry of agriculture, forestry and fisheries of Japan Annual report on trends of forest and forestry. Tokyo: Annual Report Group Policy Planning Division, Forestry Agency Ministry of Agriculture, Forestry and Fisheries, 2011. 
-[^2]: Iwai, Yoshiya. Forestry and the Forest Industry in Japan. Vancouver: University of British Columbia Press, 2007.
-[^3]: Saito, Yozo. “Japanese cedar pollinosis: discovery, nomenclature and epidemiological trends.” Procedures of the Japanese Academic Sciences 90 (2014): 203-211
-[^4]: Matsuo. “Cryptomeria Japonica: Glacial Refugia AND Late-Glacial and POSTGLACIAL MIGRATION.” Ecology 63, no. 4 (1982): 1091–1105. 
-[^5]: Aljos, Farjon. A Handbook of the World’s Conifers. Boston: Brill, 2017. 
-[^6]: Borgen, Robert, and Marian Ury. “Readable Japanese Mythology: Selections from Nihon Shoki and Kojiki.” The Journal of the Association of Teachers of Japanese, vol. 24, no. 1, 1990, pp. 61–97
+[^1]: Japan Forestry Agency, the Ministry of Agriculture, Forestry and Fisheries of Japan, *Annual Report on Trends of Forest and Forestry* (Tokyo: Annual Report Group Policy Planning Division, Forestry Agency Ministry of Agriculture, Forestry and Fisheries, 2011). 
+[^2]: Yoshiya Iwai, *Forestry and the Forest Industry in Japan* (Vancouver: University of British Columbia Press, 2007).
+[^3]: Yozo Saito, “Japanese cedar pollinosis: discovery, nomenclature and epidemiological trends,” *Procedures of the Japanese Academic Sciences* 90 (2014): 203–211. 
+[^4]: Tsukada Matsuo, “Cryptomeria Japonica: Glacial Refugia and Late-Glacial and Postglacial Migration,” *Ecology* 63, no. 4 (1982): 1091–1105. 
+[^5]: Farjon Aljos, *A Handbook of the World’s Conifers* (Boston: Brill, 2017). 
+[^6]: Robert Borgen and Marian Ury, “Readable Japanese Mythology: Selections from Nihon Shoki and Kojiki,” *The Journal of the Association of Teachers of Japanese* vol. 24, no. 1 (1990): 61–97. 
 [^7]: [Isotakeru](https://www.japanese-wiki-corpus.org/Shinto/Isotakeru)
-[^8]: Darling, Bruce. Monumenta Nipponica, vol. 46, no. 2, 1991, pp. 263–266. <i>JSTOR</i>, www.jstor.org/stable/2385409. Accessed 1 Sept. 2021.
+[^8]: Bruce Darling, *Monumenta Nipponica* vol. 46, no. 2 (1991): 263–266. www.jstor.org/stable/2385409. Accessed 1 Sept. 2021. 
 [^9]: RISD Museum. “Hokusai’s Mount Fuji: A Selection from the Series Thirty-Six Views of Mount Fuji.” RISD Museum. June 14-August 17, 1991. 
 [^10]: Totman, Conrad. The Green Archipelago: Forestry in Pre-Industrial Japan. Berkeley: University of California Press, 1989. 
 [^11]: Ishii, H.T., Manabe, T., Ito, K. et al. Integrating ecological and cultural values toward conservation and utilization of shrine/temple forests as urban green space in Japanese cities. Landscape Ecol Eng 6, 307–315 (2010). 
