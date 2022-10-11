@@ -53,14 +53,14 @@ _Cryptomeria japonica_ is a <span eid="Q148681">dioecious</span> tree and the on
 
 ### Historical and Cultural Landscapes      
 
-*Sugi* was planted for its millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. [_Nihon Shoki_](https://books.google.com/books?id=1IJrNAKBpycC&pg=PA299#v=onepage&q&f=false), the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to Susanoo, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships.[^6][^7]   
+*Sugi* was planted for its millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. [_Nihon Shoki_](https://books.google.com/books?id=1IJrNAKBpycC&pg=PA299#v=onepage&q&f=false), the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to <span eid="Q272993">Susanoo</span>, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships.[^6][^7]   
 
 <param ve-image 
        label="Zen garden at Ryoan-ji, with two prominent Cryptomeria visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space. Image by authors, 2019." 
        license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3793%20(1).JPG?raw=true">
 
-_Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. One image shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the building of the Kasuga Shrine nor in the forest, dominating the foreground. Carefully maintained, this tree still stands in the Nara prefecture, having withstood the building’s reconstructions.[^8]   
+_Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. One image shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the building of the <span eid="Q714559">Kasuga Shrine</span> nor in the forest, dominating the foreground. Carefully maintained, this tree still stands in the <span eid="Q131287">Nara prefecture</span>, having withstood the building’s reconstructions.[^8]   
 
 <param ve-image region="316,0,689,523"
        label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria. The set of 20 scrolls were produced by the Fujiwara clan and completed in 1309." 
@@ -68,12 +68,9 @@ _Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. O
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
        
 
-Katsushika Hokusai’s woodblock prints of Mishima Pass in Kai province, from the series Thirty-six Views of Mount Fuji, is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
+<span eid="Q5586">Katsushika Hokusai’s</span> woodblock prints of Mishima Pass in Kai province, from the series *Thirty-Six Views of Mount Fuji* (1830-1832), is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
-<param ve-image
-       label="Mishima Pass in Kai, a wood print of Mt. Fuji with Cryptomeria. Printed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
-       license="public domain" 
-       url= "https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
+<param ve-iframe src="https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/15">
 
 Groves of _Cryptomeria japonica_ were typically associated with temple complexes. At Ryōan-ji, a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as daisūgi, a coppicing technique that emerged during the Muromachi period (1336–1573) to create thinner posts for tea room construction.[^10] Built in 1617, Nikko Tosho-gu Shrine, also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the Avenue of Cedars that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape.[^11]    
 
