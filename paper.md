@@ -68,39 +68,41 @@ _Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. O
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
        
 
-<span eid="Q5586">Katsushika Hokusai’s</span> woodblock prints of Mishima Pass in Kai province, from the series [*Thirty-Six Views of Mount Fuji*] https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/15 (1830-1832), is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of Mount Fuji. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
+<span eid="Q5586">Katsushika Hokusai’s</span> woodblock prints of Mishima Pass in Kai province, from the series [*Thirty-Six Views of Mount Fuji*] https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/15 (1830-1832), is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of <span eid="Q39231">Mount Fuji</span>. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
 <param ve-image
        label="Mishima Pass in Kai, a wood print of Mt. Fuji with Cryptomeria. Printed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
        license="public domain" 
        url= "https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
 
-Groves of _Cryptomeria japonica_ were typically associated with temple complexes. At Ryōan-ji, a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as daisūgi, a coppicing technique that emerged during the Muromachi period (1336–1573) to create thinner posts for tea room construction.[^10] Built in 1617, Nikko Tosho-gu Shrine, also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the Avenue of Cedars that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape.[^11]    
+Groves of _Cryptomeria japonica_ were typically associated with temple complexes. At <span eid="Q587371">Ryōan-ji</span>, a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, these trees can both be seen in their natural form, reaching over 100 feet into the sky, and as *daisūgi*, a coppicing technique that emerged during the <span eid="Q334845">Muromachi period (1336–1573)</span> to create thinner posts for tea room construction.[^10] Built in 1617, <span eid="Q696641">Nikko Tosho-gu Shrine</span> also showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens of Cryptomeria japonica, most famously along the <span eid="Q2873976"> Cedars Avenue</span> that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates throughout the forested landscape.[^11]    
 
 <param ve-image 
        label="A temple on the Shikoku Pilgrimage trail, one of eighty-eight shrines that this path connects. Shikoku is the smallest of Japan's four major islands. Sūgi were planted as a boundary demarcating the devotional space around each temple. Image by authors, 2019." 
        license="Image by authors, no permission needed." 
        url= "https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
 
-Established in 4 BCE, the Ise Jingū shrine remains situated in a chinju no mori (sacred shrine forest) of dense Cryptomeria. Historically Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, the architecture of Ise is simple, and has been positioned as more “Japanese” than the later built more baroque shrines.  After World War II, when shinto was disassociated from the government, the natural setting, Cryptomeria forest, became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
+Established in 4 BCE, the <span eid="Q687168">Ise Jingū Shrine</span> remains situated in a *chinju no mori* (a sacred shrine forest) of dense Cryptomeria. Historically, Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, the architecture of Ise is simple, and has been positioned as more “Japanese” than the later built more baroque shrines.  After World War II, when shinto was disassociated from the government, the natural setting, Cryptomeria forest, became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
 
 <param ve-image
        label="A ukiyo-e depicting Emperor Meiji worshipping Ise Jingu on March 11, 1869. Cryptomeria are shown surrounding the shrine. Created by Sadahide Utagawa, 1869." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png">
 
-During his travels in Japan in the late nineteenth century, Charles Sprague Sargent—an American botanist and the first director of the Arnold Arboretum—documented _Cryptomeria japonica_ as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the shōgun, in 1616. As he wrote, “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^13]   
+During his travels in Japan in the late nineteenth century, <span eid="Q1066128">Charles Sprague Sargent</span>—an American botanist and the first director of Harvard's [Arnold Arboretum] (https://arboretum.harvard.edu/)—documented _Cryptomeria japonica_ as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the <span eid="Q131767">*shōgun*</span>, in 1616. As he wrote in his [*Flora Forest of Japan*] (https://www.biodiversitylibrary.org/item/115089#page/1/mode/1up), “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^13]   
 
 <param ve-image
        label="A hand-colored albumen print of Imaichi road in Nikko. Attributed to Charles Leander Weed, 1880." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Imaichi_road_in_Nikko_%28hand-colored_albumen_print%2C_Japan%29_%2816423543800%29.jpg">
        
-<param ve-image url= "crypto-avenue.jpg"
+<param ve-image url="crypto-avenue.jpg"
        label="The Cryptomeria Avenue in Nikko, Japan. Published by H.C. White Co., 1903, held by the Library of Congress Prints Division." 
        license="public domain. Property of US government, no license required." 
        region="-36,-176,1097,882"
        source="https://www.loc.gov/item/2020634053/">
+
+<param ve-iframe src=https://www.biodiversitylibrary.org/item/115089#page/180/mode/1up&output="embed">
 
 ### A View from Yakushima Island 
 
