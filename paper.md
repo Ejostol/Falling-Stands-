@@ -68,7 +68,7 @@ _Cryptomeria japonica_ is depicted in the painted scrolls Kasuga Gongen Genki. O
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
        
 
-<span eid="Q5586">Katsushika Hokusai’s</span> woodblock prints of Mishima Pass in Kai province, from the series [*Thirty-Six Views of Mount Fuji*] (https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/15)(1830-1832), is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of <span eid="Q39231">Mount Fuji</span>. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
+<span eid="Q5586">Katsushika Hokusai’s</span> woodblock prints of Mishima Pass in Kai province, from the series [*Thirty-Six Views of Mount Fuji*](https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/15)(1830-1832), is dominated by an enormous _Cryptomeria japonica_ trunk. The tree dwarfs the travelers, some of whom are attempting to measure it's size, and visually competes with the wonderment of <span eid="Q39231">Mount Fuji</span>. Hokusai started this series when he was seventy in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
 <param ve-image
        label="Mishima Pass in Kai, a wood print of Mt. Fuji with Cryptomeria. Printed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
@@ -89,7 +89,7 @@ Established in 4 BCE, the <span eid="Q687168">Ise Jingū Shrine</span> remains s
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png">
 
-During his travels in Japan in the late nineteenth century, <span eid="Q1066128">Charles Sprague Sargent</span>—an American botanist and the first director of Harvard's [Arnold Arboretum] (https://arboretum.harvard.edu/)—documented _Cryptomeria japonica_ as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the <span eid="Q131767">*shōgun*</span>, in 1616. As he wrote in his [*Flora Forest of Japan*] (https://www.biodiversitylibrary.org/item/115089#page/1/mode/1up), “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^13]   
+During his travels in Japan in the late nineteenth century, <span eid="Q1066128">Charles Sprague Sargent</span>—an American botanist and the first director of Harvard's [Arnold Arboretum](https://arboretum.harvard.edu/)—documented _Cryptomeria japonica_ as grown both as a timber tree and in temple groves. Noting its use in construction, he also reported the legend behind the Avenue at Nikko. Sargent was told the trees were planted by a poor feudal lord as a tribute to Japan’s military ruler, the <span eid="Q131767">*shōgun*</span>, in 1616. As he wrote in his [*Flora Forest of Japan*](https://www.biodiversitylibrary.org/item/115089#page/1/mode/1up), “this avenue, if the story told of its origin is true, can teach a useful lesson, and caries hope to the heart of the planter of trees, who will see in it a monument more lasting than those which men sometimes erect in stone or bronze in the effort to perpetuate the memory of their greatness.”[^13]   
 
 <param ve-image
        label="A hand-colored albumen print of Imaichi road in Nikko. Attributed to Charles Leander Weed, 1880." 
@@ -102,7 +102,7 @@ During his travels in Japan in the late nineteenth century, <span eid="Q1066128"
        region="-36,-176,1097,882"
        source="https://www.loc.gov/item/2020634053/">
 
-<param ve-iframe src=https://www.biodiversitylibrary.org/item/115089#page/180/mode/1up&output="embed">
+<param ve-iframe src="https://www.biodiversitylibrary.org/item/115089#page/180/mode/1up&output=embed">
 
 ### A View from Yakushima Island 
 
