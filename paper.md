@@ -11,19 +11,19 @@
 Japanese cedar (_Cryptomeria japonica_), *sugi* in Japanese, is Japan's national tree and the most widely planted tree species in the country.[^1] It was the backbone of a massive and successful <span eid="Q2384419">afforestation</span> project following World War II (1941-1945) and the Korean War (1950-1953).[^2] Today, 70 percent of Japan is forested, and over 24 percent of this forest is artificial. However, the popularity of Japanese cedar that led to its widespread planting has been negatively affected by the massive amounts of <span eid="Q79932">pollen</span> that the female trees produce each spring [^3], resulting in a drastic public health hazard. In fact, every year, one-quarter of the country's population is afflicted with an allergic reaction to Japanese cedars called pollinosis.
 
 <param ve-image 
-       label="A plantation of Cryptomeria near the Nakagawa Revitalization Project on Honshu Island. Image by authors, 2019." 
+       label="A plantation of Japanese cedars near the Nakagawa Revitalization Project on Honshu Island. Image by authors, 2019." 
        license="Image by authors, no permissions needed"
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0196.JPG?raw=true">
        
 <param ve-image url="crypto-specimen.jpg"
-       label="Cryptomeria specimen planted in the Coker Arboretum at the University of North Carolina at Chapel Hill. This image belongs to the Digital Collection of the Harvard University Herbaria." 
+       label="Cryptomeria japonica specimen planted in the Coker Arboretum at the University of North Carolina at Chapel Hill. This image belongs to the Digital Collection of the Harvard University Herbaria." 
        license="Image by authors, no permissions needed"
        source="https://data.huh.harvard.edu/databases/specimen_search.php?mode=details&id=895668">       
                                                                                                                                                  
 Cryptomeria’s cultural significance is well-documented throughout history, and its copious planting reflects ideas of national symbolism, conservation strategies, economic systems, and changing demographics. The story of Japanese cedar in the twentieth century tells how a single species can culturally, economically, and spiritually shape a national landscape. Today, as aging monocultural stands of sugi fall, the tree’s symbolic role in the landscape is changing again to adapt to the needs and concerns of the Japanese population. 
  
 <param ve-image rotate="90"
-       label="A single Cryptomeria tree rising over 100 feet. Image by authors, 2019." 
+       label="A single Japaese cedar rising over 100 feet. Image by authors, 2019." 
        license="Image by authors, no permissions needed"
        url="https://upload.wikimedia.org/wikipedia/commons/8/81/Cryptomeria_japonica_specimen.jpg">
 
@@ -33,7 +33,7 @@ Cryptomeria’s cultural significance is well-documented throughout history, and
 A ubiquitous evergreen conifer planted on all four of Japan’s main islands, Cryptomeria japonica is native to China and Japan. Numerous archeological studies have examined buried traces of Japanese cedar pollen to trace its habitation patterns, confirming that the species has existed in small forested areas since around 13,000 BCE. Its presence on the island increased significantly following a change in climate that began in 5,000 BCE and continued into Common Era, when the country’s environment generally became colder and wetter, an ideal climate for cedar trees.[^4] 
 
 <param ve-image rotate="90"
-       label="A 300-year old Cryptomeria stump flanks a hiking trail in the old growth forest on Yakushima Island. While most of Japan's Cryptomeria are planted as monocultures, the cedars on Yakushima Island grow in a mixed community of epiphytes, mosses, shrubs, and trees. Image by authors, 2019." 
+       label="A 300-year old Cryptomeria stump flanks a hiking trail in the old growth forest on Yakushima Island. While most of Japan's cedars are planted as monocultures, the ones on Yakushima Island grow in a mixed community of epiphytes, mosses, shrubs, and trees. Image by authors, 2019." 
        license="Image by authors, no permission needed" 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_0548.JPG?raw=true">
 
@@ -45,7 +45,7 @@ _Cryptomeria japonica_ is a <span eid="Q148681">dioecious</span> tree and the on
        source="https://commons.wikimedia.org/wiki/File:Hagurosan_no_Jiji_Sugi_January_2022_D.jpg">
 
 <param ve-image url="crypto-pyramid.jpg"
-       label="The distinctly pyramidal form of a single Cryptomeria tree growing Bathumi, Georgia. Image by Lazaregagnidze, 2011." 
+       label="The distinctly pyramidal form of a single Japanese cedar growing in Bathumi, Georgia. Image by Lazaregagnidze, 2011." 
        license="public domain"
        region="-949,186,4747,3818"
        source="https://upload.wikimedia.org/wikipedia/commons/d/db/Cryptomeria_japonica_var_piramidalis_Japanese_Cedar_%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%A0%E1%83%98%E1%83%9E%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90.JPG">
@@ -56,14 +56,14 @@ _Cryptomeria japonica_ is a <span eid="Q148681">dioecious</span> tree and the on
 Japanese cedars have been planted for their millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. [_Nihon Shoki_](https://books.google.com/books?id=1IJrNAKBpycC&pg=PA299#v=onepage&q&f=false), the second oldest Japanese historical record that dates from 720 CE, is the earliest written source to mention it. It refers to <span eid="Q272993">Susanoo</span>, a multifaceted deity who created trees, including *sugi*, from his hair. *Nihon Shoki* also notes that *sugi* is an excellent material for building ships.[^6][^7] 
 
 <param ve-image 
-       label="Zen garden at Ryoan-ji, with two prominent Cryptomeria visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space. Image by authors, 2019." 
+       label="Zen garden at Ryoan-ji, with two prominent cedars visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space. Image by authors, 2019." 
        license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3793%20(1).JPG?raw=true">
 
 *Sugi* is depicted in the 1309 painted scrolls entitled [Kasuga Gongen Genki](https://www.kunaicho.go.jp/e-culture/sannomaru/zuroku-95.html). One image of the scrolls shows a single specimen, tall with tufts of needles. It stands alone, neither directly next to the <span eid="Q714559">Kasuga Shrine</span> nor in the forest, dominating the foreground. Carefully maintained, the tree still stands in the <span eid="Q131287">Nara prefecture</span> today, having withstood the building’s reconstructions.[^8]
 
 <param ve-image region="316,0,689,523"
-       label="One of the Kasuga Gongen Genki scrolls, showing a Cryptomeria. The set of 20 scrolls were produced by the Fujiwara clan and completed in 1309." 
+       label="One of the Kasuga Gongen Genki scrolls, showing a Japanese cedar. The set of 20 scrolls were produced by the Fujiwara clan and completed in 1309." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/5/51/Takashina_Takakane_001.JPG">
        
@@ -71,21 +71,21 @@ Japanese cedars have been planted for their millennial-old cultural history, qua
 <span eid="Q5586">Katsushika Hokusai’s</span> woodblock prints of Mishima Pass in Kai province, from the series [*Thirty-Six Views of Mount Fuji*](https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/15)(1830-1832), is dominated by an enormous *sugi* trunk. The tree dwarfs the depicted travelers, some of whom are attempting to measure its size, and visually competes with the wonderment of <span eid="Q39231">Mount Fuji</span>. Hokusai started this series when he was 70 years old in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
 <param ve-image
-       label="Mishima Pass in Kai, a wood print of Mt. Fuji with Cryptomeria. Printed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
+       label="Mishima Pass in Kai, a woodprint of Mt. Fuji with Cryptomeria. Completed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
        license="public domain" 
        url= "https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
 
 Groves of _Cryptomeria japonica_ were typically associated with temple complexes. At <span eid="Q587371">Ryōan-ji</span>, a temple in Kyoto celebrated for its Zen garden and originally constructed in the fifteenth century, the trees can both be seen in their natural form, reaching over 100 feet into the sky, and as *daisūgi*, a <span eid="Q1360410">coppicing</span> technique that emerged during the <span eid="Q334845">Muromachi period (1336–1573)</span> to create thinner posts for tea room construction.[^10] Moreover, built in 1617, <span eid="Q696641">Nikko Tosho-gu Shrine</span> showcases the grandeur of Japanese cedar trees. Its creation involved the planting of 40,000 specimens, most famously along the <span eid="Q2873976">Cedars Avenue</span> that led to the shrine. The 10,000 trees that still stand convey the site’s spiritual power, which is not limited to the building but permeates the forested landscape.[^11]    
 
 <param ve-image 
-       label="A temple on the Shikoku Pilgrimage trail, one of eighty-eight shrines that this path connects. Shikoku is the smallest of Japan's four major islands. Sūgi were planted as a boundary demarcating the devotional space around each temple. Image by authors, 2019." 
+       label="A temple on the Shikoku Pilgrimage trail, one of eighty-eight shrines connected by this path. Shikoku is the smallest of Japan's four major islands. Japanese cedars were planted as a boundary demarcating the devotional space around each temple. Image by authors, 2019." 
        license="Image by authors, no permission needed." 
        url= "https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
 
 Established in 4 BCE, the <span eid="Q687168">Ise Jingū Shrine</span> is situated in a *chinju no mori* (a sacred shrine forest) of dense *sugi*. Historically, Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, Ise's architecture is simple, and has been positioned as being more “Japanese” than the later-built more baroque shrines. After World War II, when <span eid="Q812767">Shinto</span> was disassociated from the government, the *sugi* forest became central to connecting Ise with the past. Reframing the historical narrative of simplistic architecture to an early example of Japanese architecture’s ability to build in harmony with nature.[^12]
 
 <param ve-image
-       label="A ukiyo-e depicting Emperor Meiji worshipping Ise Jingu on March 11, 1869. Cryptomeria are shown surrounding the shrine. Created by Sadahide Utagawa, 1869." 
+       label="A ukiyo-e depicting Emperor Meiji worshipping Ise Jingu on March 11, 1869. Japanese cedars are shown surrounding the shrine. Created by Sadahide Utagawa, 1869." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png">
 
@@ -114,7 +114,7 @@ During his travels in Japan in the late nineteenth century, <span eid="Q1066128"
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0713.JPG?raw=true">
        
 <param ve-image url="CedarBridge_05.jpg"
-       label="A photogrammetry composite image of 154 images of a footbridge on Yakushima Island constructed from Cryptomeria. Yakushima National Park protects old growth Japanese cedars, and uses local timber to build trail infrastructure for visitors to see the sacred Jomon-Sugi tree. Image by Kira Clingen, 2019." 
+       label="A photogrammetry composite image of 154 images of a footbridge on Yakushima Island constructed from Japanese cedar. Yakushima National Park protects old growth Japanese cedars, and uses local timber to build trail infrastructure for visitors to see the sacred Jomon-Sugi tree. Image by Kira Clingen, 2019." 
        license="Image created by author Kira Clingen, 2019. No permissions needed.">
        
  <param ve-image  url="yakushima-map.JPG"
@@ -125,7 +125,7 @@ During his travels in Japan in the late nineteenth century, <span eid="Q1066128"
 This forest composition is similar to Japan’s prehistoric forests. Until roughly 6,000 years ago northern Japan was covered with broadleaf <span eid="Q1131316">deciduous</span> species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. _Cryptomeria_ only became a prominent species across Japan 4,000 years ago, even before the <span eid="Q52824">Jōmon period (c. 14,000–300 BCE)</span> in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives on.[^17] On Yakushima Island, *sūgi* were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century. While 4,300 hectares of inland mountainous forest were designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time.[^18]  
 
 <param ve-image url="crypto-community.jpg"
-       label="Some of the species that grow alongside Cryptomeria on Yakushima Island. Image by Edyth Jostol, 2019." 
+       label="Some of the species that grow alongside Japanese cedars on Yakushima Island. Image by Edyth Jostol, 2019." 
        license="Image created by Kira Clingen and Edyth Jostol, no permission needed." 
        region= "-20,-291,2591,2084">
 
@@ -141,7 +141,7 @@ The pace of deforestation increased as the Japanese Imperial Army demanded addit
 Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers.[^20] These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Rhetoric around post war reforestation focused on the need to restore the national landscape. The reform slogan was "[Making] the mountains green" ("*yama o midori ni*"), invoking the image of Japan as a green archipelago. The reforms targeted upland regions but the message was on a national scale, expanding the importance of these economies to the well-being of the country as a whole. The Emperor became a vocal supporter of and active participant in annual national tree planting ceremonies, and he always planted _sugi_ when he participated.[^21]
 
 <param ve-image url="crypto-lumber.jpg"
-       label="Sawmill workers chopping Cryptomeria into lumber. Image by B.L. Singley, 1905." 
+       label="Sawmill workers chopping Japanese cedars into lumber. Image by B.L. Singley, 1905." 
        license="public domain. Property of the US Government, no permissions needed" 
        region="65,-117,960,772"
        source="https://www.loc.gov/item/2020637700/">
@@ -156,7 +156,7 @@ In 1964, the [Forestry Basic Act](https://www.cas.go.jp/jp/seisaku/hourei/data/f
 
 <param ve-image fit="contain" 
        license= "Image by authors, no permissions required."
-       label="Cryptomeria cut into standard timber sizes to be exported. Image by author, 2019." 
+       label="Japanese cedar cut into standard timber sizes to be exported. Image by author, 2019." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0018.JPG?raw=true">
 
 The reforestation campaign focused on conifer plantings, with subsidies and compulsion, so following the success of these agrarian and forestry reforms, 4 billion cedar trees were planted across Japan between 1950 and 1970.[^25] Since the 1970s, 16 million new cedar trees have been planted annually.[^26][^27]  
@@ -170,14 +170,14 @@ The reforestation campaign focused on conifer plantings, with subsidies and comp
 In the 1980s, the value of hardwood tree species such as _Cryptomeria japonica_ crashed as the demand for wood products lessened. The intention behind the reforestation plan was to build upland economies, but the increase in forestry support was too late and inflexible. By the time planted trees grew to size, demand had started to wane and Japan had begun to import international resources.[^28] Cheaper plastics flooded the market, and other nations, including Portugal, began clearing their forest land to make room for _Cryptomeria_ plantations. Tropical timber from islands such as Borneo, which was cheaper to harvest and of a higher quality, entered the market. This new international competition crippled the Japanese market. The promise of a thriving rural economy based on harvesting forest products and efficiently distributing them to urban centers died over the course of a single decade, leaving millions of acres of planted forests with little economic value. Furthermore, after the <span eid="Q214866">Great Hanshin earthquake</span> devastated large areas of Japan in 1995, the government created strict regulations around the types of timber that it deemed suitable for domestic construction. Japanese cedar no longer met the new regulations, decreasing domestic demand for the tree.[^29] 
 
 <param ve-image url="crypto-portugal.jpg"
-       label= "An avenue of Cryptomeria in Portugal's Parque Florestal da Mata da Serreta. Image by José Luís Ávila Silveira and Pedro Noronha e Costa, 2007."
+       label= "An avenue of Japanese cedars in Portugal's Parque Florestal da Mata da Serreta. Image by José Luís Ávila Silveira and Pedro Noronha e Costa, 2007."
        license="Public Domain"
        source="https://commons.wikimedia.org/wiki/File:Parque_Florestal_da_Mata_da_Serreta,_Interior_da_ilha_Terceira,_A%C3%A7ores,_Portugal.JPG">
 
 While the economic promises came up short, the idea of restoring the green archipelago seemingly was met. Japan’s timber market came to rely on pollution exports from less wealthy countries while maintaining its national forests. But the manufactured forests host a different environmental issue: undercutting and over-forestation. Conversations around forestry’s lack of financial success has been framed as a personal failing, or blame the undercutting of the international market, largely ignoring the role of national reforestation efforts after World War II.[^30] 
 
 <param ve-image 
-       label="Cryptomeria trunks are covered in plastic while they are growing to produce smooth specialty timber products that are then polished. Image by authors, 2019." 
+       label="The tree's trunk is covered in plastic while growing to produce smooth specialty timber products that are then polished. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
@@ -186,7 +186,7 @@ While the economic promises came up short, the idea of restoring the green archi
 Today, because of the late twentieth-century afforestation policy, Japan is the most densely forested developed nation in the world.[^31] But the massive swaths across the country of the monoculture plantations are aging. Many have been abandoned due to high management costs and low profits, despite government subsidies. The increase of unattended and aging stands presents new concerns.
 
 <param ve-image fit="contain" 
-       label="The typical life cycle of a Cryptomeria plantation. Image by Kira Clingen, 2019." 
+       label="The typical life cycle of a Japanese cedar plantation. Image by Kira Clingen, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/FINAL%20DRAWING%20OF%20LIFE%20CYCLE-01-01.jpg?raw=true">
 
@@ -194,7 +194,7 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
 
 <param ve-image url="crypto-timbermap.JPG"
        region="199,-94,599,472"
-       label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressacae. Map adapted by Kira Clingen from Masaki et al., Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives, Reforesta 3 (2017): 125-142 and  Japan Forestry Agency, State of Japan's Forest and FOrest Management, Tokyo: Japanese Forestry Agency, 2009."  
+       label="Japanese cedar plantations established between 1900 and 2010 and locations of lumber mills constructed between 2000 and 2015. Plantations on the northernmost island of Hokkaido are primarily Cupressaceae. Map adapted by Kira Clingen from Masaki et al., Reforestation following harvesting of conifer plantations in Japan: Current issues from silvicultural and ecological perspectives, *Reforesta* 3 (2017): 125-142 and Japan Forestry Agency, State of Japan's Forest and Forest Management (Tokyo: Japanese Forestry Agency, 2009.)"  
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0033.JPG?raw=true">
 
@@ -206,7 +206,7 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
 
 <param ve-image url="crypto-pollenmap.JPG"
        region="304,-83,535,420"
-       label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These aresa are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., Mapping of Japanese cedar forests vulnerable to global warming in Japan, Global Environmental Research 10 (2006): 181-188." 
+       label="Map of areas with estimated transpiration/precipitation ratios greater than 0.4 mm/mm-1. These areas are predicted to be the most difficult for Japanese cedar to survive in due to climate change. The island of Yakushima is outlined in red. Map adapted by Kira Clingen from Matusmoto et al., Mapping of Japanese cedar forests vulnerable to global warming in Japan, Global Environmental Research 10 (2006): 181-188." 
        license="Image created by author, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0122.JPG?raw=true">
 
@@ -218,18 +218,18 @@ Monoculture plantings have changed every layer of the Japanese forest. The regim
 Transitioning to more diverse forestry species and practices is a lengthy process. For the 80 species of deciduous hardwood trees that grow in Japan to take root on plantations that have been planted in conifer monocultures, the seeds must blow in and have adequate sunlight to establish. Areas that have been completely cleared for *sugi* plantations resist diversification, as there are no local sources of seeds.[^36] Even on abandoned plantation sites, regenerating cedars compete with spontaneously growing species, making it difficult for new woody plants to establish.[^37] In order to increase the number of forest species, Japan's entire landscape, not just the individual plantations, need to be managed and diversified.   
 
 <param ve-image
-       label="A Cryptomeria plot that has been partially harvested. Due to falling timber prices, many stands are abandoned and left to decay. Image by authors, 2019." 
+       label="A Japanese cedar plot that has been partially harvested. Due to falling timber prices, many stands are abandoned and left to decay. Image by authors, 2019." 
        license="Image by authors, no permission needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0117.JPG?raw=true">
        
 <param ve-image url="tree-shadows.jpg"
-       label= "Trees are planted in tight grids on plantations. Understory species receive extremely limited sunlight for two to four hours each day. This digital shadow study shows the intense shade cast in monoculture Cryptomeria plantations. Image by authors, 2019."
+       label= "Trees are planted in tight grids on plantations. Understory species receive extremely limited sunlight for two to four hours each day. This digital shadow study shows the intense shade cast in Japanese cedar monoculture  plantations. Image by authors, 2019."
        license="Image by authors, no permissions needed.">
 
 Areas where *sugi* trees are growing will likely remain planted with conifers for hundreds of years, while areas where they have been cut down will see new species emerge on the forest floor, creating new types of plant communities. New forms of human stewardship have begun to gain popularity in response to both monoculture plantations and an increasingly urbanized population. Starting in the late 1990s, *satoyama*, the restoration of traditional agrarian landscapes started to gain traction, fueled by nostalgia and increased interest in biodiversity. Access to rural areas by city dwellers was increased through volunteer programs that aim to help clear land, plant native species, create habitat for foraging sought-after <span eid="Q509308">Matsutake mushrooms</span>, and form connections with the landscape. The [Nakagawa Revitalization Project](https://sites.google.com/a/transwordtgm.com/iwai-forest-industry/association-of-nakagawa-revitalization-project) is one example of this. Operated by retired professor Yoshiya Iwai, the project includes a community library, hosts events and home-stays and is expanding to include a hobbyist woodworking facility.[^38] Once again, Japan’s species composition will be transformed as its landscape is reshaped by human interaction. This new type of forest will require new management practices and a different approach: learning from connections within diverse ecosystems instead of merely dealing with plantations and spontaneously growing forest.
 
 <param ve-image rotate="90"
-       label="Cryptomeria trees near the Nakagawa Revitalization Project are pruned using the daisugi technique. Daisugi is similar to European coppicing, and produces slender stems that are dense and flexible. Image by authors, 2019." 
+       label="Japanese cedars near the Nakagawa Revitalization Project are pruned using the daisugi technique. Daisugi is similar to European coppicing, and produces slender stems that are dense and flexible. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0999.JPG?raw=true">
        
@@ -239,13 +239,13 @@ The risk of pollinosis—a reaction to the pollen released every spring as _Cryp
 
 <param ve-image url="crypto-pollen2.JPG"
        region="146,-104,663,522"
-       label="A map of pollen clouds and soil profiles with instances of Cryptomeria since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, Vegetated history of Japan since last glacial period based on palynological data, Japanese Journal of Hitsorical Botany 25 (2016): 1-11." 
+       label="A map of pollen clouds and soil profiles with instances of Japanese cedar since the last glacial period. The diameter of the circle represents the intensity of pollen observed. Map adapted by Kira Clingen from N. Ooi, Vegetated history of Japan since last glacial period based on palynological data, Japanese Journal of Hitsorical Botany 25 (2016): 1-11." 
        license="Image by authors, no permissions needed.">
    
 The Japanese government has worked to genetically alter the species, which would allow the rural forestry industry to continue in an era of increasing urbanization. It started a campaign to produce pollen without the allergens _Cry j1_ and _Cry j2_, which create symptoms of pollinosis. Research agencies across the archipelago breed these <span eid="Q540834">hypoallergenic</span> trees for future plantations. Since 2007, 130 different pollen-free varieties have been produced. The cost of these trees makes them a challenge to plant as an alternative to the nonmodified *sugi* trees. A program of subsidies from the Japanese government, however, attempts to lessen the burden on foresters.[^40] 
 
 <param ve-image
-       label="Allergy-free Cryptomeria seedlings grown under cloth at the Nakagawa Revitalization Project. Image by authors, 2019." 
+       label="Allergy-free Japanese cedar seedlings grown under cloth at the Nakagawa Revitalization Project. Image by authors, 2019." 
        license="Image by authors, no permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/DSC_0126.JPG?raw=true">
 
@@ -254,7 +254,7 @@ The Japanese government has worked to genetically alter the species, which would
 The *sugi* afforestation project shows the dangers of treating rural forest areas as an economic resource independent of international networks with little consideration for the industry's effect on local populations and environments. The policies of the Forestry and Forest Basic Act of 1964 enabled the creation of landscapes that now generate an  annual public health crisis. The fallout of these policies reveals how interconnected urban and rural areas are: trees growing hundreds of miles from urban centers dramatically affect the lives of millions of city inhabitants. These issues are likely to continue until new species are introduced to *sugi* monocultures and forests are restored to a new kind of ecological balance, expanding the importance of maintaining a green archipelago that includes localized biodiversity. The story of *sugi* or *Cryptomeria japonica* suggests that falling stands can give rise to many models of regeneration and adaptation.
 
 <param ve-image
-       label="A photogrammetry composite image of 109 images of a Cryptomeria tree and seedling. This living Cryptomeria shows the complex associations the cedars growing on Yakushima have evolved. An oak seedling grows on the side of the tree, while moss colonizes the trunk and smaller Stewartia grow in close proximity to the base of the tree. Image by Kira Clingen, 2019." 
+       label="A photogrammetry composite image of 109 images of a Japanese cedar and seedling. This living specimen shows the complex associations the cedars growing on Yakushima have evolved. An oak seedling grows on the side of the tree, while moss colonizes the trunk and smaller Stewartia grow in close proximity to the base of the tree. Image by Kira Clingen, 2019." 
        license="Image created by author Kira Clingen, 2019. No permissions needed." 
        url="https://github.com/Ejostol/Falling-Stands-/blob/main/LivingTree_03.jpg?raw=true">
 
@@ -264,7 +264,7 @@ The *sugi* afforestation project shows the dangers of treating rural forest area
  The funding for this project was generously provided by the Harvard University Graduate School of Design [Penny White Project Fund](https://www.gsd.harvard.edu/landscape-architecture/fellowships-prizes-and-travel-programs/penny-white-project-fund/) and the Harvard University Asia Center Summer Grant. The authors spent one month in Japan in 2019 studying *sugi* trees. The work was internally advised by [Sergio Lopez Pineiro](https://holesofmatter.com/), Lecturer at the Harvard University Graduate School of Design, and advised by Dr. Keiko Kuroda, Professor Emeritus at Kobe University. 
  
  <param ve-image url="crypto-sitevisit.JPG"
-       label="The site visits and route the authors followed during their trip in 2019. Image by Kira Clingen, 2019." 
+       label="The route followed by the authors during their trip in 2019. Image by Kira Clingen, 2019." 
        license="Image created by author Kira Clingen, 2019. No permissions needed.">
          
        
