@@ -53,7 +53,7 @@ _Cryptomeria japonica_ is a <span eid="Q148681">dioecious</span> tree and the on
 
 ### Historical and Cultural Landscapes      
 
-*Sugi* was planted for its millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. [_Nihon Shoki_][https://books.google.com/books?id=1IJrNAKBpycC&pg=PA299#v=onepage&q&f=false], the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to Susanoo, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships.[^6][^7]   
+*Sugi* was planted for its millennial-old cultural history, quality of timber, speed of growth, and suitability to the climate across the Japanese archipelago. [_Nihon Shoki_](https://books.google.com/books?id=1IJrNAKBpycC&pg=PA299#v=onepage&q&f=false), the second oldest Japanese historical record that dates from 720 CE, is the earliest written source that mentions this forest species. It refers to Susanoo, a multifaceted deity, who created trees—including Cryptomeria japonica from his hair, noting that it is an excellent material for building ships.[^6][^7]   
 
 <param ve-image 
        label="Zen garden at Ryoan-ji, with two prominent Cryptomeria visible just beyond the garden’s enclosed courtyard, demarcating the boundary of the sacred space. Image by authors, 2019." 
