@@ -30,7 +30,7 @@ The Japanese cedar's cultural significance is well-documented throughout history
 
 ### All in the Family 
 
-A ubiquitous evergreen conifer planted on all four of Japan’s main islands, *Cryptomeria japonica* is native to China and Japan. Numerous archeological studies have examined buried traces of Japanese cedar pollen to trace its habitation patterns, confirming that the species has existed in small forested areas since around 13,000 BCE. Its presence on the island increased significantly following a change in climate that began in 5,000 BCE and continued into Common Era, when the country’s environment generally became colder and wetter, an ideal climate for cedar trees.[^4] 
+A ubiquitous evergreen conifer planted on all four of Japan’s main islands, *Cryptomeria japonica* is native to Japan. Numerous archeological studies have examined buried traces of Japanese cedar pollen to trace its habitation patterns, confirming that the species has existed in small forested areas since around 13,000 BCE. Its presence on the island increased significantly following a change in climate that began in 5,000 BCE and continued into Common Era, when the country’s environment generally became colder and wetter, an ideal climate for cedar trees.[^4] 
 
 <param ve-image rotate="90"
        label="A 300-year old Cryptomeria stump flanks a hiking trail in the old growth forest on Yakushima Island. While most of Japan's cedars are planted as monocultures, the ones on Yakushima Island grow in a mixed community of epiphytes, mosses, shrubs, and trees. Image by authors, 2019." 
