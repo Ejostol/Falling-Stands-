@@ -8,7 +8,7 @@
        source="https://upload.wikimedia.org/wikipedia/commons/f/f9/Cryptomeria_japonica_%27Cristata%27_Szydlica_japo%C5%84ska_2019-06-09_04.jpg"
        layout="vertical">
 
-Japanese cedar (_Cryptomeria japonica_), *sugi* in Japanese, is Japan's national tree and the most widely planted tree species in the country.[^1] It was the backbone of a massive and successful <span eid="Q2384419">afforestation</span> project following World War II (1941-1945) and the Korean War (1950-1953).[^2] Today, 70 percent of Japan is forested, and over 24 percent of this forest is made of human plantations. However, the popularity of the tree that led to the widespread planting of the species has been negatively affected by the massive amounts of <span eid="Q79932">pollen</span> that the female trees produce each spring[^3], resulting in a drastic public health hazard. In fact, one-quarter of the country's population is afflicted with Japanese cedar pollinosis, an allergic reaction.
+Japanese cedar (_Cryptomeria japonica_), *sugi* in Japanese, is Japan's national tree and the most widely planted tree species in the country.[^1] It was the backbone of a massive and successful <span eid="Q2384419">afforestation</span> project following World War II (1941-1945) and the Korean War (1950-1953).[^2] Today, 70 percent of Japan is forested, and over 24 percent of this forest is made of cultivated plantations. However, the popularity of the tree that led to the widespread planting of the species has been negatively affected by the massive amounts of <span eid="Q79932">pollen</span> that the female trees produce each spring[^3], resulting in a drastic public health hazard. In fact, one–quarter of the country's population is afflicted with Japanese cedar pollinosis, an allergic reaction.
 
 <param ve-image 
        label="A plantation of Japanese cedars near the Nakagawa Revitalization Project on Honshu Island. Image by authors, 2019." 
@@ -30,7 +30,7 @@ The Japanese cedar's cultural significance is well-documented throughout history
 
 ### All in the Family 
 
-A ubiquitous evergreen conifer planted on all four of Japan’s main islands, *Cryptomeria japonica* is native to Japan. Numerous archeological studies have examined buried traces of Japanese cedar pollen to trace its habitation patterns, confirming that the species has existed in small forested areas since around 13,000 BCE. Its presence on the island increased significantly following a change in climate that began in 5,000 BCE and continued into Common Era, when the country’s environment generally became colder and wetter, an ideal climate for cedar trees.[^4] 
+A ubiquitous evergreen conifer planted on all four of Japan’s main islands, *Cryptomeria japonica* is native to Japan. Numerous archeological studies have examined buried traces of Japanese cedar pollen to trace its habitation patterns, confirming that the species has existed in small forested areas since around 13,000 BCE. Its presence on the island increased significantly following a change in climate that began in 5,000 BCE and continued into the Common Era, when the country’s environment generally became colder and wetter, an ideal climate for cedar trees.[^4] 
 
 <param ve-image rotate="90"
        label="A 300-year old Cryptomeria stump flanks a hiking trail in the old growth forest on Yakushima Island. While most of Japan's cedars are planted as monocultures, the ones on Yakushima Island grow in a mixed community of epiphytes, mosses, shrubs, and trees. Image by authors, 2019." 
@@ -71,7 +71,7 @@ Japanese cedars or *sugi* have been planted for their millennial-old cultural hi
 <span eid="Q5586">Katsushika Hokusai’s</span> woodblock prints of Mishima Pass in Kai province, from the series [*Thirty-Six Views of Mount Fuji*](https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/15)(1830-1832), is dominated by an enormous *sugi* trunk. The tree dwarfs the depicted travelers, some of whom are attempting to measure its size, and visually competes with the wonderment of <span eid="Q39231">Mount Fuji</span>. Hokusai started this series when he was 70 years old in response to the cultural fascination with the mountain as an object of pilgrimage, due to its scenic beauty as well as mythical connection with immortality. Despite the identified location, this print may not be an accurate topographic representation but an attempt to capture the mood and character of the Japanese landscape.[^9]   
 
 <param ve-image
-       label="Mishima Pass in Kai, a woodprint of Mt. Fuji with Cryptomeria. Completed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936" 
+       label="Mishima Pass in Kai, a woodprint of Mt. Fuji with Cryptomeria. Completed by Katsushika Hokusai between 1830 and 1832. Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936." 
        license="public domain" 
        url= "https://images.metmuseum.org/CRDImages/as/original/DP141065.jpg">
 
@@ -82,7 +82,7 @@ Groves of _sugi_ were typically associated with temple complexes. At <span eid="
        license="Image by authors, no permission needed." 
        url= "https://github.com/Ejostol/Falling-Stands-/blob/main/IMG_3417.JPG?raw=true">
 
-Established in 4 BCE, <span eid="Q687168">Ise Jingū Shrine</span> is situated in a *chinju no mori* (a sacred shrine forest) of dense *sugi*. Historically, Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, Ise's architecture is simple, and has been positioned as being more “Japanese” than the later-built more baroque shrines, which are considered lest harmonious with nature.[^12] After World War II, when <span eid="Q812767">Shinto</span> was disassociated from the government, the *sugi* forest became central to connecting Ise with the past.
+Established in 4 BCE, <span eid="Q687168">Ise Jingū Shrine</span> is situated in a *chinju no mori* (a sacred shrine forest) of dense *sugi*. Historically, Ise has been closely related to both Japan’s imperial power, due to ties to rulers, and artistic creation, for its capturing of national landscape ideals. Compared to Nikkō Tōshō-gū, Ise's architecture is simple, and has been positioned as being more “Japanese” than the later-built more baroque shrines, which are considered less harmonious with nature.[^12] After World War II, when <span eid="Q812767">Shinto</span> was disassociated from the government, the *sugi* forest became central to connecting Ise with the past.
 
 <param ve-image
        label="A ukiyo-e depicting Emperor Meiji worshipping Ise Jingu on March 11, 1869. Japanese cedars are shown surrounding the shrine. Created by Sadahide Utagawa, 1869." 
@@ -127,7 +127,7 @@ This forest's composition is similar to that of Japan’s prehistoric forests. U
        license="Image created by Kira Clingen and Edyth Jostol, no permission needed." 
        region= "-20,-291,2591,2084">
 
-The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II and the Korean War. During times of shortage, across the Japanese archipelago from Yakushima to <span eid="Q35581">Hokkaido</span>, citizens burned the old deciduous and conifer forests as <span eid="Q18537">biomass</span> to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, Japan's landscape was radically transformed, becoming sparsely forested.[^19] In 1993, Yakushima was added to the [World Heritage List](https://whc.unesco.org/en/list/) for its ongoing geological processes, biological evolution, natural beauty, and significant habitat. The interior primary forest is still preserved and some plantations have been abandoned, while others are still logged to this day. 
+The pace of deforestation increased as the Japanese Imperial Army demanded additional timber for ship construction during World War II and the Korean War. During times of shortage, across the Japanese archipelago from Yakushima to <span eid="Q35581">Hokkaido</span>, citizens burned the old deciduous and conifer forests as <span eid="Q18537">biomass</span> to generate electricity and fuel cooking fires. As a result, by the mid-twentieth century, Japan's landscape was radically transformed, having become sparsely forested.[^19] In 1993, Yakushima was added to the [World Heritage List](https://whc.unesco.org/en/list/) for its ongoing geological processes, biological evolution, natural beauty, and significant habitat. The interior primary forest is still preserved and some plantations have been abandoned, while others are still logged to this day. 
 
 <param ve-image url="sugi1-01.jpg"
        label="Cryptomeria in Yakushima Island’s primary forest are part of a multi-species plant community with a deciduous overstory, epiphytes, and an evergreen broadleaf understory. This collage of four images portrays a single tree from its roots to canopy. Image by authors, 2019." 
@@ -136,7 +136,7 @@ The pace of deforestation increased as the Japanese Imperial Army demanded addit
 
 ### Crypto Currency: from Specimen Species to Monoculture Mascot 
 
-Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers.[^20] These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Rhetoric around post war reforestation focused on the need to restore the national landscape. The reform slogan was "[Making] the mountains green" ("*yama o midori ni*"), invoking the image of Japan as a green archipelago. The reforms targeted upland regions but the message was on a national scale, expanding the importance of these economies to the well-being of the country as a whole. The Emperor became a vocal supporter of and active participant in annual national tree planting ceremonies, and he always planted _sugi_ when he participated.[^21]
+Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers.[^20] These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Rhetoric around post-war reforestation focused on the need to restore the national landscape. The reform slogan was "[Making] the mountains green" ("*yama o midori ni*"), invoking the image of Japan as a green archipelago. The reforms targeted upland regions but the message was on a national scale, expanding the importance of these economies to the well-being of the country as a whole. The Emperor became a vocal supporter of and active participant in annual national tree planting ceremonies, and he always planted _sugi_ when he participated.[^21]
 
 <param ve-image url="crypto-lumber.jpg"
        label="Sawmill workers chopping Japanese cedars into lumber. Image by B.L. Singley, 1905." 
@@ -145,7 +145,7 @@ Following the World War II period, the Japanese government instigated a series o
        source="https://www.loc.gov/item/2020637700/">
 
 
-In 1964, the [Forestry Basic Act](https://www.cas.go.jp/jp/seisaku/hourei/data/ffba.pdf) was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast.[^22] The Act aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber: it enabled the flow of knowledge and forestry practices from the urban centers to the once isolated rural villages. The legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or diminishing international markets.[^23] The subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber.[^24] 
+In 1964, the [Forestry Basic Act](https://www.cas.go.jp/jp/seisaku/hourei/data/ffba.pdf) was passed, which effectively established a national forest industry in Japan, including plans to build thousands of miles of roads across the nation to allow timber to be easily harvested from hilly, densely forested regions and shipped out to ports along the coast.[^22] The Act aimed to build closer ties between urban and rural areas, linking previously separated parts of Japan through educational forestry programs and vocational training. The road network allowed for more than the transport of timber: it enabled the flow of knowledge and forestry practices from the urban centers to the once-isolated rural villages. The legislation also included guarantees from the Japanese government that forestry workers would receive subsidies in the event of a natural disaster or diminishing international markets.[^23] The subsidies, which still exist today, included offsetting the harvest and transportation costs, allowing foresters to take advantage of ports and other international distribution points to sell their timber.[^24] 
 
 <param ve-image url="crypto-size.jpg"
        region="2,2,1181,950"
@@ -249,7 +249,7 @@ The Japanese government has worked to genetically alter the species, which would
 
 ### Taking a Stand 
 
-The *sugi* afforestation project shows the dangers of treating rural forest areas as an economic resource independent of international networks with little consideration for the industry's effect on local populations and environments. The policies of the Forestry and Forest Basic Act of 1964 enabled the creation of landscapes that now generate an  annual public health crisis. The fallout of these policies reveals how interconnected urban and rural areas are: trees growing hundreds of miles from urban centers dramatically affect the lives of millions of city inhabitants. These issues are likely to continue until new species are introduced to *sugi* monocultures and forests are restored to a new kind of ecological balance, expanding the importance of maintaining a green archipelago that includes localized biodiversity. The story of *sugi* or *Cryptomeria japonica* suggests that falling stands can give rise to many models of regeneration and adaptation.
+The *sugi* afforestation project shows the dangers of treating rural forest areas as an economic resource independent of international networks with little consideration for the industry's effect on local populations and environments. The policies of the Forestry and Forest Basic Act of 1964 enabled the creation of landscapes that now generate an annual public health crisis. The fallout of these policies reveals how interconnected urban and rural areas are: trees growing hundreds of miles from urban centers dramatically affect the lives of millions of city inhabitants. These issues are likely to continue until new species are introduced to *sugi* monocultures and forests are restored to a new kind of ecological balance, expanding the importance of maintaining a green archipelago that includes localized biodiversity. The story of *sugi*, or *Cryptomeria japonica*, suggests that falling stands can give rise to many models of regeneration and adaptation.
 
 <param ve-image
        label="A photogrammetry composite image of 109 images of a Japanese cedar and seedling. This living specimen shows the complex associations the cedars growing on Yakushima have evolved. An oak seedling grows on the side of the tree, while moss colonizes the trunk and smaller Stewartia grow in close proximity to the base of the tree. Image by Kira Clingen, 2019." 
@@ -276,22 +276,22 @@ The *sugi* afforestation project shows the dangers of treating rural forest area
 [^6]: Robert Borgen and Marian Ury, “Readable Japanese Mythology: Selections from Nihon Shoki and Kojiki,” *The Journal of the Association of Teachers of Japanese* vol. 24, no. 1 (1990): 61–97. 
 [^7]: W.G. Aston, *Nihongi, Volume 1: Chronicles of Japan from the Earliest Times to AD 697* (New York: Routledge, 2010.) 
 [^8]: Bruce Darling, *Monumenta Nipponica* vol. 46, no. 2 (1991): 263–266. www.jstor.org/stable/2385409. Accessed 1 Sept. 2021. 
-[^9]: RISD Museum. “Hokusai’s Mount Fuji: A Selection from the Series Thirty-Six Views of Mount Fuji,” Providence, RI: RISD Museum. June 14-August 17, 1991.
+[^9]: RISD Museum. “Hokusai’s Mount Fuji: A Selection from the Series Thirty-Six Views of Mount Fuji,” Providence, RI: RISD Museum. June 14–August 17, 1991.
 [^10]: Conrad Totman, *The Green Archipelago: Forestry in Pre-Industrial Japan* (Berkeley: University of California Press, 1989). 
-[^11]: H.T. Ishii, T. Manabe, K. Ito, et al. “Integrating ecological and cultural values toward conservation and utilization of shrine/temple forests as urban green space in Japanese cities,” *Landscape Ecol Eng* 6, (2010): 307–315. 
+[^11]: H.T. Ishii, T. Manabe, K. Ito et al. “Integrating ecological and cultural values toward conservation and utilization of shrine/temple forests as urban green space in Japanese cities,” *Landscape Ecol Eng* 6, (2010): 307–315. 
 [^12]: Jonathan M. Reynolds, “Ise Shrine and a Modernist Construction of Japanese Tradition,” *The Art Bulletin* 83, no. 2 (2001): 316–41. https://doi.org/10.2307/3177211.
-[^13]:Sargent, Charles Sprague, *Forest Flora of Japan: Notes on the Forest Flora of Japan* (New York: Houghton, Mifflin and Company, 1894).
+[^13]:Charles Sprague Sargent, *Forest Flora of Japan: Notes on the Forest Flora of Japan* (New York: Houghton, Mifflin and Company, 1894).
 [^14]: Hayao Miyazaki, *The Princess Mononoke: The Art and Making of Japan’s Most Popular Film of All Time*. Translated by Mark Schilling (New York: Hyperion, 1999).
-[^15]: S. Yoshida and M. Imanaga, “The stand structure and growth of sugi (Cryptomeria japonica D. Don) in natural forests on Yakushima," *Journal of the Japanese Forestry Society* 72 (1990): 131-138; Edward O. Wilson, *The Conifers and Taxads of Japan* (Cambridge, UK: Cambridge University Press, 1916).
+[^15]: S. Yoshida and M. Imanaga, “The stand structure and growth of sugi (Cryptomeria japonica D. Don) in natural forests on Yakushima," *Journal of the Japanese Forestry Society* 72 (1990): 131–138; Edward O. Wilson, *The Conifers and Taxads of Japan* (Cambridge, UK: Cambridge University Press, 1916).
 [^16]: Wilson.
-[^17]: Sei-Ichiro Tsugi, “Paleoenvironmental Reconstruction in the Dissected Valley in Prehistory: Holocene Paleoenvironment at the Ayakama Site in Kawaguchi, Central Kanto Plain, Japan,” *The Quaternary Research (Daiyonki-Kenkyu)* 27, no. 4 (1989): 331-356.
+[^17]: Sei-Ichiro Tsugi, “Paleoenvironmental Reconstruction in the Dissected Valley in Prehistory: Holocene Paleoenvironment at the Ayakama Site in Kawaguchi, Central Kanto Plain, Japan,” *The Quaternary Research (Daiyonki-Kenkyu)* 27, no. 4 (1989): 331–356.
 [^18]: Kagoshima Dairinkusho, *Management Plan for Yakushima National Forests of Northern, Eastern, and Southern Project Segments* (Kagoshima, 1923.)
 [^19]: Takeshi Baba, “Transition of the Forest Management in Yakushima, Japan,” *Sustainability and Biodiversity Assesment on Forest Utilzation Options*. Edited by Masahiro Ichikawa, Satoshi Yamashita, and Tohru Nakashizuka (Kyoto: Research Institute for Humanity and Nature, 2008.)
 [^20]: Yoshiya Iwai.
 [^21]: John Knight, “A Tale of Two Forests: Reforestation Discourse in Japan and Beyond,” *The Journal of the Royal Anthropological Institute* 3, no. 4 (1997): 711–30. https://doi.org/10.2307/3034035.
 [^22]: James Sterngold, “Japan’s Cedar Forests Are a Man-Made Disaster,” *The New York Times* (January 17, 1995):C/1.
 [^23]: Japan Forestry Agency. Forestry and Forestry Basic Act. Tokyo, 1964.
-[^24]: D. Tajima. *Forestry in Japan: Solutions for the Future* (Tokyo: World Forestry Institute, 2010).
+[^24]: D. Tajima, *Forestry in Japan: Solutions for the Future* (Tokyo: World Forestry Institute, 2010).
 [^25]: John Knight.
 [^26]: Japan Forestry Agency, *Annual Report*. 
 [^27]: Yoshiya Iwai. 
@@ -299,12 +299,12 @@ The *sugi* afforestation project shows the dangers of treating rural forest area
 [^29]: D. Tajima.  
 [^30]: John Knight. 
 [^31]: Yoshiya Iwai.
-[^32]: I. Takeuchi, “The growth of diameters and stand stem volumes in old man-made Sugi (Cryptomeria japonica) stands," *Journal  of the Japanese Forest Society* 87 (2005): 394-401; 
-[^33]: Yashiro et al.”Biometric-based estimation of net ecosystem production in a mature Japanese cedar (Cryptomeria japonica) plantation beneath a flux tower,” *Journal of Plant Restoration* 123 no. 4 (2010):463-472.
+[^32]: I. Takeuchi, “The growth of diameters and stand stem volumes in old man-made Sugi (Cryptomeria japonica) stands," *Journal  of the Japanese Forest Society* 87 (2005): 394–401; 
+[^33]: Yashiro et al.”Biometric-based estimation of net ecosystem production in a mature Japanese cedar (Cryptomeria japonica) plantation beneath a flux tower,” *Journal of Plant Restoration* 123 no. 4 (2010):463–472.
 [^34]: W.R. Lin et al., “The impacts of thinning on the fruiting of saprophytic fungi in Cryptomeria japonica plantations in central Taiwan," *Forest Ecology and Management* 17 (2014). 
 [^35]: R.L. Tate, *Soil Microbiology* (New York: John Wiley and Sons, 1995). 
-[^36]: Igarashi and Masaki. “Species diversity of woody recruits within Japanese cedar (Cryptomeria japonica) plantations established on grasslands: the effects of site conditions and landscape,” *Journal of Forest Research* 3 (2018): 156-165.
-[^37]: Enoki et al., “Aboveground productivity of an unsuccessful 140 year old Cryptomeria japonica plantation in northern Kyushu, Japan,” *Journal for Reforestation* 16 (2011): 268-274.
+[^36]: Igarashi and Masaki. “Species diversity of woody recruits within Japanese cedar (Cryptomeria japonica) plantations established on grasslands: the effects of site conditions and landscape,” *Journal of Forest Research* 3 (2018): 156–165.
+[^37]: Enoki et al., “Aboveground productivity of an unsuccessful 140 year old Cryptomeria japonica plantation in northern Kyushu, Japan,” *Journal for Reforestation* 16 (2011): 268–274.
 [^38]: Shiho Satsuka, “The Satoyama Movement: Envisioning Multispecies Commons in Postindustrial Japan,” *RCC Perspectives* no. 3 (2014): 87–94. http://www.jstor.org/stable/26241255.
-[^39]: X. Gong et al., “Size distribution of allergenic Cry j 2 released from airborne Cryptomeria japonica pollen grains during the pollen scattering seasons,” *Aerobiologia* 33 (2017):59-69. 
+[^39]: X. Gong et al., “Size distribution of allergenic Cry j 2 released from airborne Cryptomeria japonica pollen grains during the pollen scattering seasons,” *Aerobiologia* 33 (2017):59–69. 
 [^40]: Japan Forestry Agency, Annual Report. 
